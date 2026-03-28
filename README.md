@@ -63,25 +63,10 @@ To avoid setting the API key every time, add the export line to your `~/.zshrc` 
 
 ## Usage
 
-### Run everything (script first, agent as fallback)
-
 ```bash
-conda activate natuurpunt
-python run.py
-```
-
-### Just run the standalone script (no agent fallback)
-
-```bash
-conda activate natuurpunt
-python scrape_natuurpunt.py
-```
-
-### Force the agent to re-explore from scratch
-
-```bash
-conda activate natuurpunt
-python -c "from run import agent; agent.run_agent_only()"
+python run.py              # normal: script first, agent as fallback
+python run.py --agent      # force agent mode (re-explore everything)
+python run.py --script     # script only, no agent fallback
 ```
 
 ### Subscribe to the calendar
