@@ -3,3 +3,4 @@ __pycache__/
 venv/
 .env
 debug_agenda.html
+run_and_publish.sh
