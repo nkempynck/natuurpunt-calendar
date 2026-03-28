@@ -8,7 +8,7 @@ All code and files are generated from Claude with self-made instructions in the 
 
 There are two scripts in this project:
 
-- **`scrape_natuurpunt.py`** — A standalone scraper that fetches events from the Natuurpunt website and generates a calendar file. This is what runs on a schedule. No AI, no API key, no cost.
+- **`scrape_natuurpunt.py`** — A standalone scraper that fetches events from the Natuurpunt website and generates a calendar file. This is what runs on a schedule. No LLMs, no token usage, no API key, no cost.
 
 - **`natuurpunt_agenda.py`** — The AI agent that *wrote* the standalone scraper. It uses Claude (Anthropic's AI) to visit the Natuurpunt website, analyze the HTML structure, write scraping code, test it, and save the result as `scrape_natuurpunt.py`. You only need to re-run this if the website structure changes and the standalone scraper breaks.
 
@@ -30,8 +30,7 @@ The agent is the builder. The standalone script is what actually runs day-to-day
 3. The updated file is pushed to GitHub Pages
 4. Your calendar subscription picks up the changes automatically
 
-No API calls, no cost, no AI involved — just a plain Python script.
-
+This script does not use any LLM interactions so is therefore cost-free.
 ## Setup
 
 You need Python 3.9+ and an [Anthropic API key](https://console.anthropic.com/) (only for the initial agent run).
