@@ -40,7 +40,7 @@ To avoid setting the API key every time, add the export line to your `~/.zshrc` 
 
 ```bash
 source venv/bin/activate
-python natuurpunt_agent.py
+python natuurpunt_agenda.py
 ```
 
 The agent creates `natuurpunt_vlaams_brabant.ics`. Double-click it to import into your calendar app.
@@ -84,7 +84,7 @@ Add this line (runs every Monday at 8am):
 
 | File | What does it do? |
 |---|---|
-| `natuurpunt_agent.py` | The AI agent |
+| `natuurpunt_agenda.py` | The AI agent |
 | `run_and_publish.sh` | Runs the agent and pushes to GitHub Pages |
 | `requirements.txt` | Python dependencies |
 | `index.html` | Landing page with subscription instructions |
