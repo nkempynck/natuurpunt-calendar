@@ -2,39 +2,36 @@
 
 An automatically updated calendar of [Natuurpunt Vlaams-Brabant](https://www.natuurpunt.be/agenda?f%5B0%5D=province%3A187) activities that you can subscribe to in Google Calendar, Apple Calendar, or Outlook.
 
-All code and files are generated from Claude with self-made instructions in the main `natuurpunt_agenda.py` file.
+Built with the [selfhealing-agent](https://github.com/nkempynck/selfhealing-agent) package — an AI agent that writes, runs, and fixes scripts using Claude.
 
 ## How does it work?
 
-There are two scripts in this project:
+There are two modes:
 
-- **`scrape_natuurpunt.py`** — A standalone scraper that fetches events from the Natuurpunt website and generates a calendar file. This is what runs on a schedule. No LLMs, no token usage, no API key, no cost.
+- **`scrape_natuurpunt.py`** — A standalone scraper that fetches events and generates the calendar file. This is what runs on a schedule. No LLMs, no token usage, no API key, no cost.
 
-- **`natuurpunt_agenda.py`** — The AI agent that *wrote* the standalone scraper. It uses Claude (Anthropic's AI) to visit the Natuurpunt website, analyze the HTML structure, write scraping code, test it, and save the result as `scrape_natuurpunt.py`. You only need to re-run this if the website structure changes and the standalone scraper breaks.
+- **`run.py`** — The entry point that ties it together. It tries the standalone script first. If it fails (e.g. the website changed), it fires up the AI agent to fix it. The agent reads the broken script, understands the issue, rewrites it, and saves the new version.
 
-The agent is the builder. The standalone script is what actually runs day-to-day.
+The agent is the fallback. The standalone script is what actually runs day-to-day.
 
-### The agent workflow (first run or when things break)
+### Regular workflow (scheduled updates)
 
-1. You run `natuurpunt_agenda.py`
-2. Claude visits the Natuurpunt website and analyzes the HTML
-3. It writes Python code to parse the events
-4. It tests the code — if it fails, it reads the error and fixes it
-5. Once it works, it saves the code as `scrape_natuurpunt.py`
-6. It also saves notes to `agent_notes.json` so the next agent run is faster
+1. A cron job runs `python run.py` every two weeks
+2. `run.py` executes `scrape_natuurpunt.py` — no AI, no cost
+3. The script scrapes the latest events and generates `natuurpunt_vlaams_brabant.ics`
+4. The updated file is pushed to GitHub Pages
+5. Your calendar subscription picks up the changes automatically
 
-### The regular workflow (scheduled updates)
+### When things break
 
-1. A cron job runs `scrape_natuurpunt.py` every two weeks
-2. The script scrapes the latest events and generates `natuurpunt_vlaams_brabant.ics`
-3. The updated file is pushed to GitHub Pages
-4. Your calendar subscription picks up the changes automatically
-
-This script does not use any LLM interactions so is therefore cost-free.
+1. `run.py` detects that `scrape_natuurpunt.py` failed
+2. It fires up the AI agent (requires API key)
+3. The agent reads the current script and your edits, figures out what changed, and fixes it
+4. It saves the fixed script and notes for future reference
 
 ## Setup
 
-You need Python 3.9+ and an [Anthropic API key](https://console.anthropic.com/) (only for the initial agent run).
+You need Python 3.9+ and an [Anthropic API key](https://console.anthropic.com/) (only needed when the agent runs).
 
 ### Using conda/mamba
 
@@ -50,11 +47,11 @@ conda activate natuurpunt
 # Install dependencies
 pip install -r requirements.txt
 
-# Set your API key (only needed for the agent, not the standalone script)
+# Set your API key (only needed if the agent has to run)
 export ANTHROPIC_API_KEY="sk-ant-..."
 ```
 
-If you prefer mamba (faster dependency resolution):
+If you prefer mamba:
 
 ```bash
 mamba create -n natuurpunt python=3.11 -y
@@ -66,38 +63,30 @@ To avoid setting the API key every time, add the export line to your `~/.zshrc` 
 
 ## Usage
 
-### First run — let the agent figure things out
+### Run everything (script first, agent as fallback)
 
 ```bash
 conda activate natuurpunt
-python natuurpunt_agenda.py
+python run.py
 ```
 
-This runs the AI agent, which will explore the website and generate both the `.ics` calendar file and the standalone `scrape_natuurpunt.py` script.
-
-### Regular updates — just run the standalone script
+### Just run the standalone script (no agent fallback)
 
 ```bash
 conda activate natuurpunt
 python scrape_natuurpunt.py
 ```
 
-No API key needed. This is what your cron job should use.
-
-### If the standalone script breaks
-
-The Natuurpunt website might change its HTML structure. If `scrape_natuurpunt.py` stops working, re-run the agent:
+### Force the agent to re-explore from scratch
 
 ```bash
 conda activate natuurpunt
-python natuurpunt_agenda.py
+python -c "from run import agent; agent.run_agent_only()"
 ```
-
-It will re-analyze the website and generate an updated standalone script.
 
 ### Subscribe to the calendar
 
-Instead of importing the `.ics` manually each time, subscribe to it so your calendar updates automatically:
+Subscribe so your calendar updates automatically:
 
 ```
 https://nkempynck.github.io/natuurpunt-calendar/natuurpunt_vlaams_brabant.ics
@@ -109,8 +98,6 @@ https://nkempynck.github.io/natuurpunt-calendar/natuurpunt_vlaams_brabant.ics
 
 ### Automatic updates with cron
 
-Set up a cron job to scrape and publish every two weeks:
-
 ```bash
 crontab -e
 ```
@@ -118,26 +105,24 @@ crontab -e
 Add this line (runs on the 1st and 15th of each month at 8am):
 
 ```
-0 8 1,15 * * cd /path/to/natuurpunt-calendar && eval "$(conda shell.bash hook 2>/dev/null)" && conda activate natuurpunt && python scrape_natuurpunt.py && git add natuurpunt_vlaams_brabant.ics && git commit -m "Update calendar" && git push
+0 8 1,15 * * cd /path/to/natuurpunt-calendar && eval "$(conda shell.bash hook 2>/dev/null)" && conda activate natuurpunt && python run.py && git add natuurpunt_vlaams_brabant.ics && git commit -m "Update calendar" && git push
 ```
-
-Note: the `eval "$(conda shell.bash hook 2>/dev/null)"` is needed because cron doesn't load your shell config, so `conda activate` won't work without it.
 
 ## Files
 
 | File | What does it do? |
 |---|---|
-| `scrape_natuurpunt.py` | Standalone scraper (auto-generated by the agent) — runs without API key |
-| `natuurpunt_agenda.py` | The AI agent — re-run this only if the scraper breaks |
+| `run.py` | Entry point — runs script, falls back to agent if it fails |
+| `scrape_natuurpunt.py` | Standalone scraper (auto-generated) — no API key needed |
 | `requirements.txt` | Python dependencies |
 | `index.html` | Landing page with subscription instructions |
-| `agent_notes.json` | Agent memory (created automatically) |
-| `natuurpunt_vlaams_brabant.ics` | The calendar file (created automatically) |
+| `memory/` | Agent notes and script version history |
+| `natuurpunt_vlaams_brabant.ics` | The calendar file (auto-generated) |
 
 ## Cost
 
 - **Standalone script:** Free. No API calls.
-- **Agent:** Uses the Anthropic API (pay-per-use). A run costs ~$0.05–$0.30. You only need this for the initial setup or when the website changes.
+- **Agent (fallback):** Uses the Anthropic API. A run costs ~$0.05–$0.30. Only triggers when the standalone script fails.
 
 ## Disclaimer
 
