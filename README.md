@@ -31,22 +31,35 @@ The agent is the builder. The standalone script is what actually runs day-to-day
 4. Your calendar subscription picks up the changes automatically
 
 This script does not use any LLM interactions so is therefore cost-free.
+
 ## Setup
 
 You need Python 3.9+ and an [Anthropic API key](https://console.anthropic.com/) (only for the initial agent run).
+
+### Using conda/mamba
 
 ```bash
 # Clone the repo
 git clone https://github.com/nkempynck/natuurpunt-calendar.git
 cd natuurpunt-calendar
 
-# Create a virtual environment and install dependencies
-python3 -m venv venv
-source venv/bin/activate
+# Create a conda environment
+conda create -n natuurpunt python=3.11 -y
+conda activate natuurpunt
+
+# Install dependencies
 pip install -r requirements.txt
 
 # Set your API key (only needed for the agent, not the standalone script)
 export ANTHROPIC_API_KEY="sk-ant-..."
+```
+
+If you prefer mamba (faster dependency resolution):
+
+```bash
+mamba create -n natuurpunt python=3.11 -y
+mamba activate natuurpunt
+pip install -r requirements.txt
 ```
 
 To avoid setting the API key every time, add the export line to your `~/.zshrc` and run `source ~/.zshrc`.
@@ -56,7 +69,7 @@ To avoid setting the API key every time, add the export line to your `~/.zshrc` 
 ### First run — let the agent figure things out
 
 ```bash
-source venv/bin/activate
+conda activate natuurpunt
 python natuurpunt_agenda.py
 ```
 
@@ -65,7 +78,7 @@ This runs the AI agent, which will explore the website and generate both the `.i
 ### Regular updates — just run the standalone script
 
 ```bash
-source venv/bin/activate
+conda activate natuurpunt
 python scrape_natuurpunt.py
 ```
 
@@ -76,7 +89,7 @@ No API key needed. This is what your cron job should use.
 The Natuurpunt website might change its HTML structure. If `scrape_natuurpunt.py` stops working, re-run the agent:
 
 ```bash
-source venv/bin/activate
+conda activate natuurpunt
 python natuurpunt_agenda.py
 ```
 
@@ -105,8 +118,10 @@ crontab -e
 Add this line (runs on the 1st and 15th of each month at 8am):
 
 ```
-0 8 1,15 * * cd /path/to/natuurpunt-calendar && source venv/bin/activate && python scrape_natuurpunt.py && git add natuurpunt_vlaams_brabant.ics && git commit -m "Update calendar" && git push
+0 8 1,15 * * cd /path/to/natuurpunt-calendar && eval "$(conda shell.bash hook 2>/dev/null)" && conda activate natuurpunt && python scrape_natuurpunt.py && git add natuurpunt_vlaams_brabant.ics && git commit -m "Update calendar" && git push
 ```
+
+Note: the `eval "$(conda shell.bash hook 2>/dev/null)"` is needed because cron doesn't load your shell config, so `conda activate` won't work without it.
 
 ## Files
 
