@@ -1,28 +1,44 @@
 # 🌿 Natuurpunt Vlaams-Brabant — Calendar Feed
 
-An agentic AI script that automatically scrapes activities from [Natuurpunt Vlaams-Brabant](https://www.natuurpunt.be/agenda?f%5B0%5D=province%3A187) and converts them into a calendar file (`.ics`) you can import into Google Calendar, Apple Calendar, or Outlook.
+An automatically updated calendar of [Natuurpunt Vlaams-Brabant](https://www.natuurpunt.be/agenda?f%5B0%5D=province%3A187) activities that you can subscribe to in Google Calendar, Apple Calendar, or Outlook.
 
-All code and files are generated from Claude with self-made instructions in the main natuurpunt_agenda.py file.
+All code and files are generated from Claude with self-made instructions in the main `natuurpunt_agenda.py` file.
 
 ## How does it work?
 
-The script is an **AI agent**: you run it, and Claude (Anthropic's AI) does the rest. It:
+There are two scripts in this project:
 
-1. Visits the Natuurpunt website
-2. Analyzes the HTML structure
-3. Writes its own code to parse the events
-4. Generates an `.ics` calendar file
-5. Remembers what worked for the next run
+- **`scrape_natuurpunt.py`** — A standalone scraper that fetches events from the Natuurpunt website and generates a calendar file. This is what runs on a schedule. No AI, no API key, no cost.
 
-You don't write any scraping code — the agent figures it out on its own.
+- **`natuurpunt_agenda.py`** — The AI agent that *wrote* the standalone scraper. It uses Claude (Anthropic's AI) to visit the Natuurpunt website, analyze the HTML structure, write scraping code, test it, and save the result as `scrape_natuurpunt.py`. You only need to re-run this if the website structure changes and the standalone scraper breaks.
+
+The agent is the builder. The standalone script is what actually runs day-to-day.
+
+### The agent workflow (first run or when things break)
+
+1. You run `natuurpunt_agenda.py`
+2. Claude visits the Natuurpunt website and analyzes the HTML
+3. It writes Python code to parse the events
+4. It tests the code — if it fails, it reads the error and fixes it
+5. Once it works, it saves the code as `scrape_natuurpunt.py`
+6. It also saves notes to `agent_notes.json` so the next agent run is faster
+
+### The regular workflow (scheduled updates)
+
+1. A cron job runs `scrape_natuurpunt.py` every two weeks
+2. The script scrapes the latest events and generates `natuurpunt_vlaams_brabant.ics`
+3. The updated file is pushed to GitHub Pages
+4. Your calendar subscription picks up the changes automatically
+
+No API calls, no cost, no AI involved — just a plain Python script.
 
 ## Setup
 
-You need Python 3.9+ and an [Anthropic API key](https://console.anthropic.com/).
+You need Python 3.9+ and an [Anthropic API key](https://console.anthropic.com/) (only for the initial agent run).
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOURUSERNAME/natuurpunt-calendar.git
+git clone https://github.com/nkempynck/natuurpunt-calendar.git
 cd natuurpunt-calendar
 
 # Create a virtual environment and install dependencies
@@ -30,7 +46,7 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 
-# Set your API key
+# Set your API key (only needed for the agent, not the standalone script)
 export ANTHROPIC_API_KEY="sk-ant-..."
 ```
 
@@ -38,27 +54,38 @@ To avoid setting the API key every time, add the export line to your `~/.zshrc` 
 
 ## Usage
 
-### Run the agent
+### First run — let the agent figure things out
 
 ```bash
 source venv/bin/activate
 python natuurpunt_agenda.py
 ```
 
-The agent creates `natuurpunt_vlaams_brabant.ics`. Double-click it to import into your calendar app.
+This runs the AI agent, which will explore the website and generate both the `.ics` calendar file and the standalone `scrape_natuurpunt.py` script.
 
-### Run and publish to GitHub Pages
+### Regular updates — just run the standalone script
 
 ```bash
 source venv/bin/activate
-./run_and_publish.sh
+python scrape_natuurpunt.py
 ```
 
-This runs the agent and pushes the updated `.ics` to GitHub Pages so calendar subscriptions auto-update.
+No API key needed. This is what your cron job should use.
+
+### If the standalone script breaks
+
+The Natuurpunt website might change its HTML structure. If `scrape_natuurpunt.py` stops working, re-run the agent:
+
+```bash
+source venv/bin/activate
+python natuurpunt_agenda.py
+```
+
+It will re-analyze the website and generate an updated standalone script.
 
 ### Subscribe to the calendar
 
-Instead of importing the `.ics` manually each time, you can subscribe to it so your calendar updates automatically. After publishing to GitHub Pages, your calendar URL is:
+Instead of importing the `.ics` manually each time, subscribe to it so your calendar updates automatically:
 
 ```
 https://nkempynck.github.io/natuurpunt-calendar/natuurpunt_vlaams_brabant.ics
@@ -68,33 +95,35 @@ https://nkempynck.github.io/natuurpunt-calendar/natuurpunt_vlaams_brabant.ics
 - **Apple Calendar:** File → New Calendar Subscription → paste the URL
 - **Outlook:** Add calendar → Subscribe from web → paste the URL
 
-### Automatic weekly updates
+### Automatic updates with cron
 
-Add a cron job so the calendar updates itself:
+Set up a cron job to scrape and publish every two weeks:
 
 ```bash
 crontab -e
 ```
 
-Add this line (runs every Monday at 8am):
+Add this line (runs on the 1st and 15th of each month at 8am):
 
 ```
-0 8 * * 1 cd /path/to/natuurpunt-calendar && source venv/bin/activate && ./run_and_publish.sh >> agent.log 2>&1
+0 8 1,15 * * cd /path/to/natuurpunt-calendar && source venv/bin/activate && python scrape_natuurpunt.py && git add natuurpunt_vlaams_brabant.ics && git commit -m "Update calendar" && git push
 ```
 
 ## Files
 
 | File | What does it do? |
 |---|---|
-| `natuurpunt_agenda.py` | The AI agent |
+| `scrape_natuurpunt.py` | Standalone scraper (auto-generated by the agent) — runs without API key |
+| `natuurpunt_agenda.py` | The AI agent — re-run this only if the scraper breaks |
 | `requirements.txt` | Python dependencies |
 | `index.html` | Landing page with subscription instructions |
-| `agent_notes.json` | Agent memory (created automatically after first run) |
-| `natuurpunt_vlaams_brabant.ics` | Calendar file (created automatically) |
+| `agent_notes.json` | Agent memory (created automatically) |
+| `natuurpunt_vlaams_brabant.ics` | The calendar file (created automatically) |
 
 ## Cost
 
-The agent uses the Anthropic API (pay-per-use). A typical run costs $0.05–$0.30. After the first run, the agent remembers what worked, making subsequent runs faster and cheaper.
+- **Standalone script:** Free. No API calls.
+- **Agent:** Uses the Anthropic API (pay-per-use). A run costs ~$0.05–$0.30. You only need this for the initial setup or when the website changes.
 
 ## Disclaimer
 
