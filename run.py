@@ -9,10 +9,12 @@ Next runs:  Runs scrape_natuurpunt.py directly (no API cost)
 If broken:  Agent takes over, reads your script, fixes it
 
 Usage:
-    pip install git+https://github.com/nkempynck/selfhealing-agent.git
-    export ANTHROPIC_API_KEY="sk-ant-..."
-    python run.py
+    python run.py              # normal: script first, agent fallback
+    python run.py --agent      # force agent mode (re-explore everything)
+    python run.py --script     # script only, no agent fallback
 """
+
+import argparse
 
 from selfhealing_agent import Agent
 
@@ -70,4 +72,14 @@ and generate the .ics file
 )
 
 if __name__ == "__main__":
-    agent.run()
+    parser = argparse.ArgumentParser(description="Natuurpunt Vlaams-Brabant Calendar")
+    parser.add_argument("--agent", action="store_true", help="Force agent mode (re-explore everything)")
+    parser.add_argument("--script", action="store_true", help="Script only, no agent fallback")
+    args = parser.parse_args()
+
+    if args.agent:
+        agent.run_agent_only()
+    elif args.script:
+        agent.run_script_only()
+    else:
+        agent.run()
