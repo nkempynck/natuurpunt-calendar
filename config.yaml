@@ -1,0 +1,10 @@
+exclude:
+  - natuurpunt_agenda.py
+  - run_and_publish.sh
+  - agent_notes.json
+  - README.md
+  - "*.pyc"
+  - __pycache__
+  - venv
+  - .env
+  - debug_agenda.html

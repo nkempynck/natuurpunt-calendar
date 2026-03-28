@@ -261,7 +261,7 @@ You are an autonomous web scraping agent. Your task is to:
 
 1. Fetch the Natuurpunt agenda page (https://www.natuurpunt.be/agenda)
 2. Inspect the HTML to understand the page structure
-3. Figure out how to filter or find events for the province "Vlaams-Brabant"
+3. Figure out how to filter or find events for the province "Vlaams-Brabant".
 4. Write and execute Python code that:
    - Parses the events (title, date, time, location, description, URL). ONLY FIND FUTURE OR CURRENT EVENTS, NOT PAST ONES.
    - Filters for Vlaams-Brabant events. They can be found under this URL: \
