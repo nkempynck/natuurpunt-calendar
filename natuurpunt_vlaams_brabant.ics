@@ -1,0 +1,4336 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Natuurpunt Vlaams-Brabant Events//natuurpunt.be//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Events from Natuurpunt in the province of Vlaams-Brabant
+X-WR-CALNAME:Natuurpunt Vlaams-Brabant
+X-WR-TIMEZONE:Europe/Brussels
+BEGIN:VEVENT
+SUMMARY:Beheerwerkdag Hagelandse Vallei
+DTSTART;TZID=Europe/Brussels:20260328T080000
+DTEND;TZID=Europe/Brussels:20260328T160000
+DTSTAMP:20260328T112533Z
+UID:ac2e9be9240a477898d38cc199102bcf@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerwerkdag-hagelandse-vallei-26224
+ ?date=28/03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lenteschoonmaak Pepingen
+DTSTART;TZID=Europe/Brussels:20260328T090000
+DTEND;TZID=Europe/Brussels:20260328T120000
+DTSTAMP:20260328T112533Z
+UID:ac9b8e895c5109d86d49a3c47b477e33@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/lenteschoonmaak-pepingen-28320?date=2
+ 8/03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerwerken Natuurpunt Londerzeel
+DTSTART;TZID=Europe/Brussels:20260328T090000
+DTEND;TZID=Europe/Brussels:20260328T120000
+DTSTAMP:20260328T112533Z
+UID:b9aa5ea5eb65c7f74487e9e09bf817fc@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerwerken-natuurpunt-londerzeel-24
+ 058?date=28/03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kookworkshop met wilde planten uit het Hulsbroekbos te Roosdaal
+DTSTART;TZID=Europe/Brussels:20260328T100000
+DTEND;TZID=Europe/Brussels:20260328T140000
+DTSTAMP:20260328T112533Z
+UID:b96011505f1dbf0ced721c6b1cc45ba1@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/kookworkshop-met-wilde-planten-uit-he
+ t-hulsbroekbos-te-roosdaal-26870?date=28/03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eetbaar bosje Bakbos: maandelijkse bijeenkomst
+DTSTART;TZID=Europe/Brussels:20260328T100000
+DTEND;TZID=Europe/Brussels:20260328T140000
+DTSTAMP:20260328T112533Z
+UID:7f8ad1e9643d71ba0049c1afedb2a422@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/eetbaar-bosje-bakbos-maandelijkse-bij
+ eenkomst-27961?date=28/03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Op pad voor de pad 2026
+DTSTART;TZID=Europe/Brussels:20260328T100000
+DTEND;TZID=Europe/Brussels:20260328T130000
+DTSTAMP:20260328T112533Z
+UID:31e1eb957931e5ababb95fda8c94e501@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/op-pad-voor-de-pad-2026-26756?date=28
+ /03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valleien vertellen de expo
+DTSTART;TZID=Europe/Brussels:20260328T100000
+DTEND;TZID=Europe/Brussels:20260328T130000
+DTSTAMP:20260328T112533Z
+UID:b131d293db9d2b3675ee67f639fa166e@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/valleien-vertellen-de-expo-28726?date
+ =28/03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kano-Clean-Up & Natuurwandeling | Maak de Dijle mee proper!
+DTSTART;TZID=Europe/Brussels:20260328T123000
+DTEND;TZID=Europe/Brussels:20260328T160000
+DTSTAMP:20260328T112533Z
+UID:a0a69f1ae08d2ae42cb6520c77941d56@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/kano-clean-up-natuurwandeling-maak-de
+ -dijle-mee-proper-27734?date=28/03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerwerk\, aan de slag in de natuur
+DTSTART;TZID=Europe/Brussels:20260328T140000
+DTEND;TZID=Europe/Brussels:20260328T170000
+DTSTAMP:20260328T112533Z
+UID:13fd14b2240b6f5d9ec48a77a5d76a5b@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerwerk-aan-de-slag-in-de-natuur-2
+ 6579?date=28/03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Voorjaarswandeling in Arenbergpark en Egenhovenbos
+DTSTART;TZID=Europe/Brussels:20260328T140000
+DTEND;TZID=Europe/Brussels:20260328T170000
+DTSTAMP:20260328T112533Z
+UID:d650679ac3d47206b0f6a1b0757e3da4@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Leuve
+LOCATION:Leuve
+URL:https://www.natuurpunt.be/agenda/voorjaarswandeling-in-arenbergpark-en
+ -egenhovenbos-28245?date=28/03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algemene vergadering met gebiedswandeling / Natuurpunt Holsbeek
+DTSTART;TZID=Europe/Brussels:20260328T140000
+DTEND;TZID=Europe/Brussels:20260328T170000
+DTSTAMP:20260328T112533Z
+UID:a42211efeb6c59acc352eba6978b20d3@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Holsbeek
+LOCATION:Holsbeek
+URL:https://www.natuurpunt.be/agenda/algemene-vergadering-met-gebiedswande
+ ling-natuurpunt-holsbeek-26225?date=28/03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lezing - Watermonsters in Pajottenland & Zennevallei
+DTSTART;TZID=Europe/Brussels:20260328T153000
+DTEND;TZID=Europe/Brussels:20260328T183000
+DTSTAMP:20260328T112533Z
+UID:c29b2d38a1bb10e79c3bdbb73878e3d3@natuurpunt.be
+DESCRIPTION:Natuurpunt event in -
+LOCATION:-
+URL:https://www.natuurpunt.be/agenda/lezing-watermonsters-in-pajottenland-
+ zennevallei-28082?date=28/03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nacht van de Steenuil (Landen)
+DTSTART;TZID=Europe/Brussels:20260328T190000
+DTEND;TZID=Europe/Brussels:20260328T223000
+DTSTAMP:20260328T112533Z
+UID:2e390ab37ff0d25e4e0d082c7711e1fe@natuurpunt.be
+DESCRIPTION:Natuurpunt event in La
+LOCATION:La
+URL:https://www.natuurpunt.be/agenda/nacht-van-de-steenuil-landen-27151?da
+ te=28/03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nacht van de Steenuil Landen - Editie 2026
+DTSTART;TZID=Europe/Brussels:20260328T190000
+DTEND;TZID=Europe/Brussels:20260328T230000
+DTSTAMP:20260328T112533Z
+UID:ed711948d8d22e0c65170cbb25cf7462@natuurpunt.be
+DESCRIPTION:Natuurpunt event in La
+LOCATION:La
+URL:https://www.natuurpunt.be/agenda/nacht-van-de-steenuil-landen-editie-2
+ 026-27175?date=28/03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UILENWANDELING BIJ AVOND
+DTSTART;TZID=Europe/Brussels:20260328T190000
+DTEND;TZID=Europe/Brussels:20260328T220000
+DTSTAMP:20260328T112533Z
+UID:b93b38adf41b1a150b35b9a37132c80f@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Glabbeek
+LOCATION:Glabbeek
+URL:https://www.natuurpunt.be/agenda/uilenwandeling-bij-avond-26233?date=2
+ 8/03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nacht van de Steenuil
+DTSTART;TZID=Europe/Brussels:20260328T193000
+DTEND;TZID=Europe/Brussels:20260328T220000
+DTSTAMP:20260328T112533Z
+UID:6c2729c6d0301f9e1169a89d228c026e@natuurpunt.be
+DESCRIPTION:Natuurpunt event in &
+LOCATION:&
+URL:https://www.natuurpunt.be/agenda/nacht-van-de-steenuil-26987?date=28/0
+ 3/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vogels in onze cultuur (verplaatst naar 22 maart)
+DTSTART;TZID=Europe/Brussels:20260329T090000
+DTEND;TZID=Europe/Brussels:20260329T120000
+DTSTAMP:20260328T112533Z
+UID:5867125962b1a741ed2bcb9b23f1d472@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Zemst
+LOCATION:Zemst
+URL:https://www.natuurpunt.be/agenda/vogels-in-onze-cultuur-verplaatst-naa
+ r-22-maart-25896?date=29/03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🐰 Rudi\, de Paasneef van Rudolf
+DTSTART;TZID=Europe/Brussels:20260329T090000
+DTEND;TZID=Europe/Brussels:20260329T120000
+DTSTAMP:20260328T112533Z
+UID:77ebdc8aa65ff219302f5ebdf20e7a8c@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/rudi-de-paasneef-van-rudolf-28290?dat
+ e=29/03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Voorjaarsbloeiers - lentewandeling!
+DTSTART;TZID=Europe/Brussels:20260329T094500
+DTEND;TZID=Europe/Brussels:20260329T120000
+DTSTAMP:20260328T112533Z
+UID:9959d6987403e02bfa67142d44c94d33@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Affligem
+LOCATION:Affligem
+URL:https://www.natuurpunt.be/agenda/voorjaarsbloeiers-lentewandeling-2768
+ 8?date=29/03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Op pad voor de pad 2026
+DTSTART;TZID=Europe/Brussels:20260329T100000
+DTEND;TZID=Europe/Brussels:20260329T130000
+DTSTAMP:20260328T112533Z
+UID:ff08be67b79f507a3fef57182824cf9b@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/op-pad-voor-de-pad-2026-26756?date=29
+ /03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valleien vertellen de expo
+DTSTART;TZID=Europe/Brussels:20260329T100000
+DTEND;TZID=Europe/Brussels:20260329T130000
+DTSTAMP:20260328T112533Z
+UID:dd6a305ba73f0d840ec1e46d46d0f580@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/valleien-vertellen-de-expo-28726?date
+ =29/03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mijmerende meanderwandeling\, aansluitend Lokale Algemene leden Ve
+ rgadering.
+DTSTART;TZID=Europe/Brussels:20260329T133000
+DTEND;TZID=Europe/Brussels:20260329T163000
+DTSTAMP:20260328T112533Z
+UID:e7053203e813b30846731616e40a8bb1@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/mijmerende-meanderwandeling-aansluite
+ nd-lokale-algemene-leden-vergadering-26239?date=29/03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Voorjaarswandeling naar natuurgebied Cortenbroeck (Zobbroekbeekval
+ lei)
+DTSTART;TZID=Europe/Brussels:20260329T140000
+DTEND;TZID=Europe/Brussels:20260329T170000
+DTSTAMP:20260328T112533Z
+UID:356d96a2af2a240e80179e6e43c593de@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Si
+LOCATION:Si
+URL:https://www.natuurpunt.be/agenda/voorjaarswandeling-naar-natuurgebied-
+ cortenbroeck-zobbroekbeekvallei-25433?date=29/03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vlaamse waterdag: Doorheen het Webbekoms Broek!
+DTSTART;TZID=Europe/Brussels:20260329T140000
+DTEND;TZID=Europe/Brussels:20260329T170000
+DTSTAMP:20260328T112533Z
+UID:6cb4340f43bc3592c77c52036b123ce8@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Diest
+LOCATION:Diest
+URL:https://www.natuurpunt.be/agenda/vlaamse-waterdag-doorheen-het-webbeko
+ ms-broek-27978?date=29/03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natuurwandeling Mazenzele Dorp
+DTSTART;TZID=Europe/Brussels:20260329T140000
+DTEND;TZID=Europe/Brussels:20260329T163000
+DTSTAMP:20260328T112533Z
+UID:6a50790b892e544f04ba9fc86e7256e2@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Opwijk
+LOCATION:Opwijk
+URL:https://www.natuurpunt.be/agenda/natuurwandeling-mazenzele-dorp-27574?
+ date=29/03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Culinaire planten- en bomenwandeling in Wijgmaalbroek
+DTSTART;TZID=Europe/Brussels:20260329T140000
+DTEND;TZID=Europe/Brussels:20260329T170000
+DTSTAMP:20260328T112533Z
+UID:53f17ee7d3b9003b51e56f0465921c71@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Leuve
+LOCATION:Leuve
+URL:https://www.natuurpunt.be/agenda/culinaire-planten-en-bomenwandeling-i
+ n-wijgmaalbroek-26803?date=29/03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opendeurdag Ecoflora
+DTSTART;TZID=Europe/Brussels:20260329T140000
+DTEND;TZID=Europe/Brussels:20260329T170000
+DTSTAMP:20260328T112533Z
+UID:06cae9af351aeec1f079853ebe0d40c8@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Halle
+LOCATION:Halle
+URL:https://www.natuurpunt.be/agenda/opendeurdag-ecoflora-28940?date=29/03
+ /2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lentewandeling
+DTSTART;TZID=Europe/Brussels:20260329T140000
+DTEND;TZID=Europe/Brussels:20260329T170000
+DTSTAMP:20260328T112533Z
+UID:99b3388f810c1ad0ad22d3c5dd8a944c@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Halle
+LOCATION:Halle
+URL:https://www.natuurpunt.be/agenda/lentewandeling-28933?date=29/03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lentewandeling - Natuur en erfgoed in de Molenbeekvallei
+DTSTART;TZID=Europe/Brussels:20260329T143000
+DTEND;TZID=Europe/Brussels:20260329T170000
+DTSTAMP:20260328T112533Z
+UID:79746bfcae0c61a0a89ff1a8dc8a6fda@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Here
+LOCATION:Here
+URL:https://www.natuurpunt.be/agenda/lentewandeling-natuur-en-erfgoed-in-d
+ e-molenbeekvallei-25583?date=29/03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Op pad voor de pad 2026
+DTSTART;TZID=Europe/Brussels:20260330T100000
+DTEND;TZID=Europe/Brussels:20260330T130000
+DTSTAMP:20260328T112533Z
+UID:f7ba31a74d0a04f2db3c082a98ef797e@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/op-pad-voor-de-pad-2026-26756?date=30
+ /03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valleien vertellen de expo
+DTSTART;TZID=Europe/Brussels:20260330T100000
+DTEND;TZID=Europe/Brussels:20260330T130000
+DTSTAMP:20260328T112533Z
+UID:30ec3b34a57edbc961f08a334f27d7a4@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/valleien-vertellen-de-expo-28726?date
+ =30/03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Infosessie 'De natuur in je testament' Sint-Pieters-Leeuw en buurg
+ emeenten
+DTSTART;TZID=Europe/Brussels:20260330T150000
+DTEND;TZID=Europe/Brussels:20260330T160000
+DTSTAMP:20260328T112533Z
+UID:002a1f29ff572523f616687b3880cbbd@natuurpunt.be
+DESCRIPTION:Natuurpunt event in &
+LOCATION:&
+URL:https://www.natuurpunt.be/agenda/infosessie-de-natuur-in-je-testament-
+ sint-pieters-leeuw-en-buurgemeenten-28014?date=30/03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Op pad voor de pad 2026
+DTSTART;TZID=Europe/Brussels:20260331T100000
+DTEND;TZID=Europe/Brussels:20260331T130000
+DTSTAMP:20260328T112533Z
+UID:2064a3332142c833ca88bd4b066c535f@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/op-pad-voor-de-pad-2026-26756?date=31
+ /03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valleien vertellen de expo
+DTSTART;TZID=Europe/Brussels:20260331T100000
+DTEND;TZID=Europe/Brussels:20260331T130000
+DTSTAMP:20260328T112533Z
+UID:51a66da34fd2cbdaa0c12c5fac2b55fe@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/valleien-vertellen-de-expo-28726?date
+ =31/03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wilde plantenopleiding (basiskennis)
+DTSTART;TZID=Europe/Brussels:20260331T190000
+DTEND;TZID=Europe/Brussels:20260331T223000
+DTSTAMP:20260328T112533Z
+UID:9763acad60d2a0623b1fd3015551687e@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/wilde-plantenopleiding-basiskennis-28
+ 583?date=31/03/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valleien vertellen de expo
+DTSTART;TZID=Europe/Brussels:20260401T100000
+DTEND;TZID=Europe/Brussels:20260401T130000
+DTSTAMP:20260328T112533Z
+UID:0ed1a7bd390f283a5c4f0ae3a510992e@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/valleien-vertellen-de-expo-28726?date
+ =01/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valleien vertellen de expo
+DTSTART;TZID=Europe/Brussels:20260402T100000
+DTEND;TZID=Europe/Brussels:20260402T130000
+DTSTAMP:20260328T112533Z
+UID:e8c32c6c341c7109f4dd5f83ece718f2@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/valleien-vertellen-de-expo-28726?date
+ =02/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Startactiviteit plantenwerkgroep Holsbeek
+DTSTART;TZID=Europe/Brussels:20260402T183000
+DTEND;TZID=Europe/Brussels:20260402T200000
+DTSTAMP:20260328T112533Z
+UID:6eb7fd5c7ea7614be1afc74cebec9e70@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/startactiviteit-plantenwerkgroep-hols
+ beek-27027?date=02/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop: Hoe betrek je nieuwe vrijwilligers bij je afdeling of we
+ rkgroep?
+DTSTART;TZID=Europe/Brussels:20260402T193000
+DTEND;TZID=Europe/Brussels:20260402T223000
+DTSTAMP:20260328T112533Z
+UID:eff8892c42400178581a77c0510a09c7@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/workshop-hoe-betrek-je-nieuwe-vrijwil
+ ligers-bij-je-afdeling-of-werkgroep-28478?date=02/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valleien vertellen de expo
+DTSTART;TZID=Europe/Brussels:20260403T100000
+DTEND;TZID=Europe/Brussels:20260403T130000
+DTSTAMP:20260328T112533Z
+UID:8ce56a131628e27affd51a95782bafa6@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/valleien-vertellen-de-expo-28726?date
+ =03/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uilenfietstocht in Wijgmaal
+DTSTART;TZID=Europe/Brussels:20260403T193000
+DTEND;TZID=Europe/Brussels:20260403T223000
+DTSTAMP:20260328T112533Z
+UID:4b9f731c875ccd17bf6c855179aa3641@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/uilenfietstocht-in-wijgmaal-28224?dat
+ e=03/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Het rietveld van Brussegem verder opruimen
+DTSTART;TZID=Europe/Brussels:20260404T083000
+DTEND;TZID=Europe/Brussels:20260404T120000
+DTSTAMP:20260328T112533Z
+UID:13c69b735aadd29883991779c4a7bc84@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/het-rietveld-van-brussegem-verder-opr
+ uimen-28907?date=04/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natuurpunt Tielt-Winge: werk- en speurdag: Tussen 2 Motten
+DTSTART;TZID=Europe/Brussels:20260404T090000
+DTEND;TZID=Europe/Brussels:20260404T120000
+DTSTAMP:20260328T112533Z
+UID:3f64271b02eadfaf1c828f61b020a1b4@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/natuurpunt-tielt-winge-werk-en-speurd
+ ag-tussen-2-motten-27347?date=04/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wandelen in Borchtlombeek\, natuur en een vleugje cultuur
+DTSTART;TZID=Europe/Brussels:20260404T093000
+DTEND;TZID=Europe/Brussels:20260404T123000
+DTSTAMP:20260328T112533Z
+UID:f5a53ab57a9e933461c3731a9ffb03e7@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Roosdaal
+LOCATION:Roosdaal
+URL:https://www.natuurpunt.be/agenda/wandelen-in-borchtlombeek-natuur-en-e
+ en-vleugje-cultuur-28571?date=04/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valleien vertellen de expo
+DTSTART;TZID=Europe/Brussels:20260404T100000
+DTEND;TZID=Europe/Brussels:20260404T130000
+DTSTAMP:20260328T112533Z
+UID:814788fefc28fcf6beeca54edf1567b0@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/valleien-vertellen-de-expo-28726?date
+ =04/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wilde bijen in Tiens Broek - Aculea
+DTSTART;TZID=Europe/Brussels:20260404T110000
+DTEND;TZID=Europe/Brussels:20260404T140000
+DTSTAMP:20260328T112533Z
+UID:37159a1b35995571e443d933d84eb50d@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/wilde-bijen-in-tiens-broek-aculea-283
+ 46?date=04/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerwerkdag samen met JNM Noord-West Brabant
+DTSTART;TZID=Europe/Brussels:20260404T133000
+DTEND;TZID=Europe/Brussels:20260404T153000
+DTSTAMP:20260328T112533Z
+UID:6534647532ba0f4d310608f53d1c9800@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerwerkdag-samen-met-jnm-noord-wes
+ t-brabant-26830?date=04/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flora Land van Oppem.
+DTSTART;TZID=Europe/Brussels:20260404T140000
+DTEND;TZID=Europe/Brussels:20260404T170000
+DTSTAMP:20260328T112533Z
+UID:71a83094f77ce875702f7828562045ef@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/flora-land-van-oppem-28251?date=04/04
+ /2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paaswandeling voor het hele gezin over de voorjaarsbloeiers
+DTSTART;TZID=Europe/Brussels:20260405T100000
+DTEND;TZID=Europe/Brussels:20260405T130000
+DTSTAMP:20260328T112533Z
+UID:9e9e548850519471f43348ece35829e3@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Bertem
+LOCATION:Bertem
+URL:https://www.natuurpunt.be/agenda/paaswandeling-voor-het-hele-gezin-ove
+ r-de-voorjaarsbloeiers-27692?date=05/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valleien vertellen de expo
+DTSTART;TZID=Europe/Brussels:20260405T100000
+DTEND;TZID=Europe/Brussels:20260405T130000
+DTSTAMP:20260328T112533Z
+UID:f563ffb93d1d74f85c2c6b1b34440b02@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/valleien-vertellen-de-expo-28726?date
+ =05/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lente in het domein - Provinciedomein Huizingen
+DTSTART;TZID=Europe/Brussels:20260405T140000
+DTEND;TZID=Europe/Brussels:20260405T160000
+DTSTAMP:20260328T112533Z
+UID:9a92afda59bf2911db8e9f75c4996224@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Beersel
+LOCATION:Beersel
+URL:https://www.natuurpunt.be/agenda/lente-in-het-domein-provinciedomein-h
+ uizingen-27723?date=05/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Landschapswandeling in het Haachts Broek
+DTSTART;TZID=Europe/Brussels:20260405T140000
+DTEND;TZID=Europe/Brussels:20260405T170000
+DTSTAMP:20260328T112533Z
+UID:0a3d8d5ec70bb0cdd955e2e5f168eb9b@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Haacht
+LOCATION:Haacht
+URL:https://www.natuurpunt.be/agenda/landschapswandeling-in-het-haachts-br
+ oek-26988?date=05/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NGZ// Vroegbloeiers in het Arboretum van Tervuren.
+DTSTART;TZID=Europe/Brussels:20260405T140000
+DTEND;TZID=Europe/Brussels:20260405T170000
+DTSTAMP:20260328T112533Z
+UID:6dd6fffb5d7c5eab4d2c355cd5fe2232@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Tervure
+LOCATION:Tervure
+URL:https://www.natuurpunt.be/agenda/ngz-vroegbloeiers-in-het-arboretum-va
+ n-tervuren-27839?date=05/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Culinaire planten- en bomenwandeling in Wijgmaalbroek
+DTSTART;TZID=Europe/Brussels:20260405T140000
+DTEND;TZID=Europe/Brussels:20260405T170000
+DTSTAMP:20260328T112533Z
+UID:83b23e5cf1b674fb599f2ccf0b427fdd@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Leuve
+LOCATION:Leuve
+URL:https://www.natuurpunt.be/agenda/culinaire-planten-en-bomenwandeling-i
+ n-wijgmaalbroek-26804?date=05/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valleien vertellen de expo
+DTSTART;TZID=Europe/Brussels:20260406T100000
+DTEND;TZID=Europe/Brussels:20260406T130000
+DTSTAMP:20260328T112533Z
+UID:c39ac854fd55f62ff65eb1b04c265636@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/valleien-vertellen-de-expo-28726?date
+ =06/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prille lenteflora in Zevenbunder Halle
+DTSTART;TZID=Europe/Brussels:20260406T140000
+DTEND;TZID=Europe/Brussels:20260406T170000
+DTSTAMP:20260328T112533Z
+UID:0d4e5b8f11587c6d98e84f943355daf7@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/prille-lenteflora-in-zevenbunder-hall
+ e-27787?date=06/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valleien vertellen de expo
+DTSTART;TZID=Europe/Brussels:20260407T100000
+DTEND;TZID=Europe/Brussels:20260407T130000
+DTSTAMP:20260328T112533Z
+UID:9b64dd5f41ff41c6e966f34d8d383121@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/valleien-vertellen-de-expo-28726?date
+ =07/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valleien vertellen de expo
+DTSTART;TZID=Europe/Brussels:20260408T100000
+DTEND;TZID=Europe/Brussels:20260408T130000
+DTSTAMP:20260328T112533Z
+UID:4e916ba308d036ee0d727ed9ca4d0b39@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/valleien-vertellen-de-expo-28726?date
+ =08/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Magische lentewandeling op de Wijngaardberg
+DTSTART;TZID=Europe/Brussels:20260409T093000
+DTEND;TZID=Europe/Brussels:20260409T123000
+DTSTAMP:20260328T112533Z
+UID:a7f5ea854ecc161e143bb9d56cb30da7@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Rotselaar
+LOCATION:Rotselaar
+URL:https://www.natuurpunt.be/agenda/magische-lentewandeling-op-de-wijngaa
+ rdberg-26241?date=09/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valleien vertellen de expo
+DTSTART;TZID=Europe/Brussels:20260409T100000
+DTEND;TZID=Europe/Brussels:20260409T130000
+DTSTAMP:20260328T112533Z
+UID:ead79b9c1cdbdafeaed682b73d631df6@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/valleien-vertellen-de-expo-28726?date
+ =09/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valleien vertellen de expo
+DTSTART;TZID=Europe/Brussels:20260410T100000
+DTEND;TZID=Europe/Brussels:20260410T130000
+DTSTAMP:20260328T112533Z
+UID:f5098dddcc2814d5c9b193a744a6104d@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/valleien-vertellen-de-expo-28726?date
+ =10/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerdag op de Koeheide
+DTSTART;TZID=Europe/Brussels:20260411T090000
+DTEND;TZID=Europe/Brussels:20260411T120000
+DTSTAMP:20260328T112533Z
+UID:3c92c389bf7dce2bb341244eb0cbf01c@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerdag-op-de-koeheide-26147?date=1
+ 1/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valleien vertellen de expo
+DTSTART;TZID=Europe/Brussels:20260411T100000
+DTEND;TZID=Europe/Brussels:20260411T130000
+DTSTAMP:20260328T112533Z
+UID:273fb557f79c717d2b847d8eda2a6db8@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/valleien-vertellen-de-expo-28726?date
+ =11/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KOM EENS MEEDOEN! Beheerwerkdag Demerbroeken - Vierkensbroek
+DTSTART;TZID=Europe/Brussels:20260411T130000
+DTEND;TZID=Europe/Brussels:20260411T170000
+DTSTAMP:20260328T112533Z
+UID:020434301d6074aefc2951fb764f4107@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/kom-eens-meedoen-beheerwerkdag-demerb
+ roeken-vierkensbroek-27091?date=11/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werkdag Loobergen
+DTSTART;TZID=Europe/Brussels:20260412T093000
+DTEND;TZID=Europe/Brussels:20260412T120000
+DTSTAMP:20260328T112533Z
+UID:c3fffa2ca355d83226bc6271674cf1f1@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/werkdag-loobergen-27776?date=12/04/20
+ 26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lentewandeling in Wijgmaalbroek
+DTSTART;TZID=Europe/Brussels:20260412T100000
+DTEND;TZID=Europe/Brussels:20260412T130000
+DTSTAMP:20260328T112533Z
+UID:ba8c31f7a358b115b0c6bb7649f20840@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Leuve
+LOCATION:Leuve
+URL:https://www.natuurpunt.be/agenda/lentewandeling-in-wijgmaalbroek-27201
+ ?date=12/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valleien vertellen de expo
+DTSTART;TZID=Europe/Brussels:20260412T100000
+DTEND;TZID=Europe/Brussels:20260412T130000
+DTSTAMP:20260328T112533Z
+UID:a1af557ea6eb0b8e9c476fe312ffd42c@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/valleien-vertellen-de-expo-28726?date
+ =12/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Openluchtlezing: Wilde bijen rond het Bosmuseum (2e zondag in Zoni
+ ën)
+DTSTART;TZID=Europe/Brussels:20260412T103000
+DTEND;TZID=Europe/Brussels:20260412T133000
+DTSTAMP:20260328T112533Z
+UID:2a0cf4298c5ec622492c71276ebe1eb9@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Hoeilaart
+LOCATION:Hoeilaart
+URL:https://www.natuurpunt.be/agenda/openluchtlezing-wilde-bijen-rond-het-
+ bosmuseum-2e-zondag-in-zonien-27378?date=12/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ontdek onwaarschijnlijk mooi valleilandschap 30 jaar natuurherstel
+  Mene en Jordaan
+DTSTART;TZID=Europe/Brussels:20260412T130000
+DTEND;TZID=Europe/Brussels:20260412T170000
+DTSTAMP:20260328T112533Z
+UID:e519c3263027c12b350d1ce9d1f2a51a@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Hoegaarde
+LOCATION:Hoegaarde
+URL:https://www.natuurpunt.be/agenda/ontdek-onwaarschijnlijk-mooi-valleila
+ ndschap-30-jaar-natuurherstel-mene-en-jordaan-26928?date=12/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beverwandeling in Vorsdonkbos-Turfputten Gelrode
+DTSTART;TZID=Europe/Brussels:20260412T133000
+DTEND;TZID=Europe/Brussels:20260412T163000
+DTSTAMP:20260328T112533Z
+UID:fd0d25a3e935f533f838f6afcad147fe@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Aarschot
+LOCATION:Aarschot
+URL:https://www.natuurpunt.be/agenda/beverwandeling-in-vorsdonkbos-turfput
+ ten-gelrode-28328?date=12/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Voorjaarsbloeiers in Maasdalbos Halle
+DTSTART;TZID=Europe/Brussels:20260412T140000
+DTEND;TZID=Europe/Brussels:20260412T170000
+DTSTAMP:20260328T112533Z
+UID:9c9908eef5f14f43a210bfdb30c1ad77@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/voorjaarsbloeiers-in-maasdalbos-halle
+ -27844?date=12/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vierseizoenenwandeling in het Torfbroek: proef de lente tijdens de
+  primulaverawandeling
+DTSTART;TZID=Europe/Brussels:20260412T140000
+DTEND;TZID=Europe/Brussels:20260412T160000
+DTSTAMP:20260328T112533Z
+UID:5d4b41a64a7c6181769a7dc63b630236@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Kampe
+LOCATION:Kampe
+URL:https://www.natuurpunt.be/agenda/vierseizoenenwandeling-in-het-torfbro
+ ek-proef-de-lente-tijdens-de-primulaverawandeling-27368?date=12/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Voorjaarsbloeiers in het Lintbos
+DTSTART;TZID=Europe/Brussels:20260412T140000
+DTEND;TZID=Europe/Brussels:20260412T160000
+DTSTAMP:20260328T112533Z
+UID:e823abe01093d47a32c041556be6f492@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Grimberge
+LOCATION:Grimberge
+URL:https://www.natuurpunt.be/agenda/voorjaarsbloeiers-in-het-lintbos-2684
+ 2?date=12/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boshyacintenwandeling in Begijnenborrebos
+DTSTART;TZID=Europe/Brussels:20260412T140000
+DTEND;TZID=Europe/Brussels:20260412T160000
+DTSTAMP:20260328T112533Z
+UID:37f0ece09d7dfae8cafc6fd20bc7525a@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Dilbeek
+LOCATION:Dilbeek
+URL:https://www.natuurpunt.be/agenda/boshyacintenwandeling-in-begijnenborr
+ ebos-26939?date=12/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Waar gaan de letters KLE eigenlijk over?
+DTSTART;TZID=Europe/Brussels:20260412T140000
+DTEND;TZID=Europe/Brussels:20260412T160000
+DTSTAMP:20260328T112533Z
+UID:5083029fc067474754d6a103b96253a2@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/waar-gaan-de-letters-kle-eigenlijk-ov
+ er-28655?date=12/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kruidige wandeling in het Dunbergbroek
+DTSTART;TZID=Europe/Brussels:20260412T140000
+DTEND;TZID=Europe/Brussels:20260412T170000
+DTSTAMP:20260328T112533Z
+UID:fcba64cd980c5ee38f4cf8b7128f852a@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Holsbeek
+LOCATION:Holsbeek
+URL:https://www.natuurpunt.be/agenda/kruidige-wandeling-in-het-dunbergbroe
+ k-26242?date=12/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vier seizoenen wandelingen: het Torfbroek ontwaakt in de lente
+DTSTART;TZID=Europe/Brussels:20260412T140000
+DTEND;TZID=Europe/Brussels:20260412T170000
+DTSTAMP:20260328T112533Z
+UID:da36f6c1276a7de9e8555b56888965e1@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Kampe
+LOCATION:Kampe
+URL:https://www.natuurpunt.be/agenda/vier-seizoenen-wandelingen-het-torfbr
+ oek-ontwaakt-in-de-lente-27772?date=12/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NGZ// Voorjaarsbloeiers in Oude Bossen.
+DTSTART;TZID=Europe/Brussels:20260412T140000
+DTEND;TZID=Europe/Brussels:20260412T170000
+DTSTAMP:20260328T112533Z
+UID:106404c52dfdb7d775f43f2adf198c78@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Hoeilaart
+LOCATION:Hoeilaart
+URL:https://www.natuurpunt.be/agenda/ngz-voorjaarsbloeiers-in-oude-bossen-
+ 27840?date=12/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valleien vertellen de expo
+DTSTART;TZID=Europe/Brussels:20260413T100000
+DTEND;TZID=Europe/Brussels:20260413T130000
+DTSTAMP:20260328T112533Z
+UID:08e85cfdebbe3c1dd4c1d78754d333b7@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/valleien-vertellen-de-expo-28726?date
+ =13/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dotterwandeling
+DTSTART;TZID=Europe/Brussels:20260414T140000
+DTEND;TZID=Europe/Brussels:20260414T170000
+DTSTAMP:20260328T112533Z
+UID:c4960837c858c8316a3d56a4511adcfd@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Halle
+LOCATION:Halle
+URL:https://www.natuurpunt.be/agenda/dotterwandeling-28936?date=14/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VROEGE VOGELWANDELING - HET VINNE ZOUTLEEUW
+DTSTART;TZID=Europe/Brussels:20260418T070000
+DTEND;TZID=Europe/Brussels:20260418T120000
+DTSTAMP:20260328T112533Z
+UID:b7a1aa7988008c3b55066b525c52beba@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Zoutleeuw
+LOCATION:Zoutleeuw
+URL:https://www.natuurpunt.be/agenda/vroege-vogelwandeling-het-vinne-zoutl
+ eeuw-28541?date=18/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerwerken Wijngaardberg
+DTSTART;TZID=Europe/Brussels:20260418T090000
+DTEND;TZID=Europe/Brussels:20260418T160000
+DTSTAMP:20260328T112533Z
+UID:1e3c43b17a2e3d4a101795044e282546@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerwerken-wijngaardberg-26025?date
+ =18/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kom eens meedoen!
+DTSTART;TZID=Europe/Brussels:20260418T090000
+DTEND;TZID=Europe/Brussels:20260418T120000
+DTSTAMP:20260328T112533Z
+UID:a27174f9f18c3f849c4e6e7ef6c5c60a@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/kom-eens-meedoen-26989?date=18/04/202
+ 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerwerken Dalemhof
+DTSTART;TZID=Europe/Brussels:20260418T090000
+DTEND;TZID=Europe/Brussels:20260418T120000
+DTSTAMP:20260328T112533Z
+UID:bd8e720bbbdc7859061f4fa2f2333cfb@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerwerken-dalemhof-16007?date=18/0
+ 4/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werkdag in De Beemden
+DTSTART;TZID=Europe/Brussels:20260418T090000
+DTEND;TZID=Europe/Brussels:20260418T120000
+DTSTAMP:20260328T112533Z
+UID:fbaa52ad6ae50151fbeb73da0ed9f410@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/werkdag-in-de-beemden-28853?date=18/0
+ 4/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Klusdag op de hoeve
+DTSTART;TZID=Europe/Brussels:20260418T093000
+DTEND;TZID=Europe/Brussels:20260418T123000
+DTSTAMP:20260328T112533Z
+UID:3b0a549faa5154fa76a9982f2db2b423@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/klusdag-op-de-hoeve-26980?date=18/04/
+ 2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerwerk\, aan de slag in de natuur
+DTSTART;TZID=Europe/Brussels:20260418T133000
+DTEND;TZID=Europe/Brussels:20260418T163000
+DTSTAMP:20260328T112533Z
+UID:6106542132142a2cd936783dcc26b0b1@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerwerk-aan-de-slag-in-de-natuur-2
+ 6576?date=18/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerwerkdag Molenheide
+DTSTART;TZID=Europe/Brussels:20260418T133000
+DTEND;TZID=Europe/Brussels:20260418T170000
+DTSTAMP:20260328T112533Z
+UID:e7b44ff57a2cceee185e8ccf3150291b@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerwerkdag-molenheide-28329?date=1
+ 8/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flora Wolvertemse Beemden.
+DTSTART;TZID=Europe/Brussels:20260418T140000
+DTEND;TZID=Europe/Brussels:20260418T170000
+DTSTAMP:20260328T112533Z
+UID:792bc51aa273cd620919a0b1c4eaca6d@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/flora-wolvertemse-beemden-28262?date=
+ 18/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vroege vogelwandeling
+DTSTART;TZID=Europe/Brussels:20260419T070000
+DTEND;TZID=Europe/Brussels:20260419T090000
+DTSTAMP:20260328T112533Z
+UID:f2a4f86b62e67280eca41c34c13ff6da@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Tremelo
+LOCATION:Tremelo
+URL:https://www.natuurpunt.be/agenda/vroege-vogelwandeling-27689?date=19/0
+ 4/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Voorjaarsbloeiers in Dworp
+DTSTART;TZID=Europe/Brussels:20260419T090000
+DTEND;TZID=Europe/Brussels:20260419T120000
+DTSTAMP:20260328T112533Z
+UID:e114c1a066d14fe41dbe978f9630818b@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/voorjaarsbloeiers-in-dworp-27845?date
+ =19/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Het Silsombos als apotheek
+DTSTART;TZID=Europe/Brussels:20260419T100000
+DTEND;TZID=Europe/Brussels:20260419T130000
+DTSTAMP:20260328T112533Z
+UID:36aec23072c31953d63a61576a8a38bb@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Korte
+LOCATION:Korte
+URL:https://www.natuurpunt.be/agenda/het-silsombos-als-apotheek-27775?date
+ =19/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wilde SNUITdag: Avontuur in de natuur
+DTSTART;TZID=Europe/Brussels:20260419T110000
+DTEND;TZID=Europe/Brussels:20260419T140000
+DTSTAMP:20260328T112533Z
+UID:f85e03ad9847931cd8126ec45e761ddf@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/wilde-snuitdag-avontuur-in-de-natuur-
+ 27640?date=19/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wilde Snuitdag in het Neromhof
+DTSTART;TZID=Europe/Brussels:20260419T130000
+DTEND;TZID=Europe/Brussels:20260419T163000
+DTSTAMP:20260328T112533Z
+UID:8c97992263d7009ef89a7cbd1c4c654a@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/wilde-snuitdag-in-het-neromhof-27383?
+ date=19/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inventarisatie voorjaarsbloeiers in Sollebos
+DTSTART;TZID=Europe/Brussels:20260419T133000
+DTEND;TZID=Europe/Brussels:20260419T170000
+DTSTAMP:20260328T112533Z
+UID:4f2f6e864c32d15d41eced7499986e75@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/inventarisatie-voorjaarsbloeiers-in-s
+ ollebos-28782?date=19/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wilde Snuitdag: Op Knutselpad
+DTSTART;TZID=Europe/Brussels:20260419T133000
+DTEND;TZID=Europe/Brussels:20260419T163000
+DTSTAMP:20260328T112533Z
+UID:d319c425850af096fba0bd9b54e9dfcd@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/wilde-snuitdag-op-knutselpad-27093?da
+ te=19/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Voorjaarsbloeiers
+DTSTART;TZID=Europe/Brussels:20260419T140000
+DTEND;TZID=Europe/Brussels:20260419T170000
+DTSTAMP:20260328T112533Z
+UID:c8edc6213862e552e23fe57605d2b296@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Boortmeerbeek
+LOCATION:Boortmeerbeek
+URL:https://www.natuurpunt.be/agenda/voorjaarsbloeiers-28129?date=19/04/20
+ 26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Laekdal wandeling
+DTSTART;TZID=Europe/Brussels:20260419T140000
+DTEND;TZID=Europe/Brussels:20260419T170000
+DTSTAMP:20260328T112533Z
+UID:db09350d2fc7e4d75faadf098dbfdb68@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Tremelo
+LOCATION:Tremelo
+URL:https://www.natuurpunt.be/agenda/laekdal-wandeling-26757?date=19/04/20
+ 26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wilde Snuitdag Merchtem
+DTSTART;TZID=Europe/Brussels:20260419T140000
+DTEND;TZID=Europe/Brussels:20260419T170000
+DTSTAMP:20260328T112533Z
+UID:e017507be7a67970f493f33be14f57dc@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/wilde-snuitdag-merchtem-28635?date=19
+ /04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Proef het voorjaar in het Torfbroek - een culinaire ontdekkingsrei
+ s
+DTSTART;TZID=Europe/Brussels:20260419T140000
+DTEND;TZID=Europe/Brussels:20260419T170000
+DTSTAMP:20260328T112533Z
+UID:04d7cc983f38bf7bfc8207222d9b6f5b@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Kampe
+LOCATION:Kampe
+URL:https://www.natuurpunt.be/agenda/proef-het-voorjaar-in-het-torfbroek-e
+ en-culinaire-ontdekkingsreis-24636?date=19/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Doe mee met De Grote Lenteschoonmaak 2026 in Lennik en ontdek natu
+ urpareltjes
+DTSTART;TZID=Europe/Brussels:20260419T140000
+DTEND;TZID=Europe/Brussels:20260419T170000
+DTSTAMP:20260328T112533Z
+UID:64f29305014eba2db008fa5a1885604b@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Le
+LOCATION:Le
+URL:https://www.natuurpunt.be/agenda/doe-mee-met-de-grote-lenteschoonmaak-
+ 2026-in-lennik-en-ontdek-natuurpareltjes-28923?date=19/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Klimaatsofa - Gele hesjes rijden niet met een bakfiets
+DTSTART;TZID=Europe/Brussels:20260421T200000
+DTEND;TZID=Europe/Brussels:20260421T220000
+DTSTAMP:20260328T112533Z
+UID:adcd5c6c47c18e64730d76a48da4a315@natuurpunt.be
+DESCRIPTION:Natuurpunt event in &
+LOCATION:&
+URL:https://www.natuurpunt.be/agenda/klimaatsofa-gele-hesjes-rijden-niet-m
+ et-een-bakfiets-24789?date=21/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Floraexcursie Kloosterbos
+DTSTART;TZID=Europe/Brussels:20260422T140000
+DTEND;TZID=Europe/Brussels:20260422T170000
+DTSTAMP:20260328T112533Z
+UID:5087941aa6bea682d737d0c44e968e39@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/floraexcursie-kloosterbos-27814?date=
+ 22/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natuurverkenner op de Koeheide
+DTSTART;TZID=Europe/Brussels:20260422T193000
+DTEND;TZID=Europe/Brussels:20260422T220000
+DTSTAMP:20260328T112533Z
+UID:55fb6997aace102d652e525ca47cd6c7@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/natuurverkenner-op-de-koeheide-27544?
+ date=22/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mini-cursus zangvogels van de Hagelandse Vallei
+DTSTART;TZID=Europe/Brussels:20260422T193000
+DTEND;TZID=Europe/Brussels:20260422T220000
+DTSTAMP:20260328T112533Z
+UID:75e1f477efe51a55b72135d7f3c4a814@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/mini-cursus-zangvogels-van-de-hagelan
+ dse-vallei-27846?date=22/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cursus: Belladonna en andere kruiden
+DTSTART;TZID=Europe/Brussels:20260422T193000
+DTEND;TZID=Europe/Brussels:20260422T223000
+DTSTAMP:20260328T112533Z
+UID:adb1bb15c0499b489e2f92e09b723b03@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/cursus-belladonna-en-andere-kruiden-2
+ 7643?date=22/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cursus Dagvlinders
+DTSTART;TZID=Europe/Brussels:20260422T193000
+DTEND;TZID=Europe/Brussels:20260422T223000
+DTSTAMP:20260328T112533Z
+UID:bde02f9adb9382d24896baa21ef7edd8@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/cursus-dagvlinders-26360?date=22/04/2
+ 026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dag van de Insecten 2026: van crisis naar samenleven
+DTSTART;TZID=Europe/Brussels:20260423T090000
+DTEND;TZID=Europe/Brussels:20260423T190000
+DTSTAMP:20260328T112533Z
+UID:d052a38dd26a570788ed9a98a200cfa0@natuurpunt.be
+DESCRIPTION:Natuurpunt event in &
+LOCATION:&
+URL:https://www.natuurpunt.be/agenda/dag-van-de-insecten-2026-van-crisis-n
+ aar-samenleven-28081?date=23/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Op pad met beheerteam: visiedagen 2026 : bossen van rond de Vossel
+  de Zeyp
+DTSTART;TZID=Europe/Brussels:20260423T193000
+DTEND;TZID=Europe/Brussels:20260423T220000
+DTSTAMP:20260328T112533Z
+UID:e5e987d40e7573835a30b24a2c3a3d52@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/op-pad-met-beheerteam-visiedagen-2026
+ -bossen-van-rond-de-vossel-de-zeyp-26967?date=23/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Warme Winteravond: Resultaten van het Project Life Green Valleys
+DTSTART;TZID=Europe/Brussels:20260423T193000
+DTEND;TZID=Europe/Brussels:20260423T223000
+DTSTAMP:20260328T112533Z
+UID:fbe2fc5017ffd586aeb6b5bb22628063@natuurpunt.be
+DESCRIPTION:Natuurpunt event in &
+LOCATION:&
+URL:https://www.natuurpunt.be/agenda/warme-winteravond-resultaten-van-het-
+ project-life-green-valleys-25377?date=23/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop: Creatief keramiek beschilderen
+DTSTART;TZID=Europe/Brussels:20260424T140000
+DTEND;TZID=Europe/Brussels:20260424T170000
+DTSTAMP:20260328T112533Z
+UID:309e16dc9aef196bd4e3e63f45619ef5@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/workshop-creatief-keramiek-beschilder
+ en-27623?date=24/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerwerkdag Hagelandse Vallei
+DTSTART;TZID=Europe/Brussels:20260425T080000
+DTEND;TZID=Europe/Brussels:20260425T160000
+DTSTAMP:20260328T112533Z
+UID:e9cf67abc56b4bea70ca4bef59f285b3@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerwerkdag-hagelandse-vallei-26224
+ ?date=25/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werkdag in en voor de natuur
+DTSTART;TZID=Europe/Brussels:20260425T090000
+DTEND;TZID=Europe/Brussels:20260425T130000
+DTSTAMP:20260328T112533Z
+UID:8fdf50f913a7d9bd91e027d956c30624@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/werkdag-in-en-voor-de-natuur-28561?da
+ te=25/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerwerken Natuurpunt Londerzeel
+DTSTART;TZID=Europe/Brussels:20260425T090000
+DTEND;TZID=Europe/Brussels:20260425T120000
+DTSTAMP:20260328T112533Z
+UID:827b37c0a9e5b2d5ad637d0a598a2ba2@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerwerken-natuurpunt-londerzeel-24
+ 058?date=25/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fauna en Flora inventarisatie in De Beemden Landen
+DTSTART;TZID=Europe/Brussels:20260425T100000
+DTEND;TZID=Europe/Brussels:20260425T120000
+DTSTAMP:20260328T112533Z
+UID:1763f29da991fb327795c0193f95b11a@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/fauna-en-flora-inventarisatie-in-de-b
+ eemden-landen-27674?date=25/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Bosbaden aan het Bosmuseum
+DTSTART;TZID=Europe/Brussels:20260425T140000
+DTEND;TZID=Europe/Brussels:20260425T160000
+DTSTAMP:20260328T112533Z
+UID:3b0bf4033b67e564c9738482f9c6d659@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Bosbade
+LOCATION:Bosbade
+URL:https://www.natuurpunt.be/agenda/workshop-bosbaden-aan-het-bosmuseum-2
+ 8577?date=25/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wateronderzoek in Kollinten
+DTSTART;TZID=Europe/Brussels:20260425T140000
+DTEND;TZID=Europe/Brussels:20260425T170000
+DTSTAMP:20260328T112533Z
+UID:6f91e722dfffad1f861807d02fc3bf5a@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/wateronderzoek-in-kollinten-26596?dat
+ e=25/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zwerfvuilactie 12 Apostelenbos
+DTSTART;TZID=Europe/Brussels:20260425T143000
+DTEND;TZID=Europe/Brussels:20260425T173000
+DTSTAMP:20260328T112533Z
+UID:1cb96f2373409edc46775a26602b3fb7@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/zwerfvuilactie-12-apostelenbos-28764?
+ date=25/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vroege vogelwandeling
+DTSTART;TZID=Europe/Brussels:20260426T070000
+DTEND;TZID=Europe/Brussels:20260426T110000
+DTSTAMP:20260328T112533Z
+UID:572322be370883a083193d21c059991b@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Li
+LOCATION:Li
+URL:https://www.natuurpunt.be/agenda/vroege-vogelwandeling-28131?date=26/0
+ 4/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vroege vogelwandeling met ontbijt
+DTSTART;TZID=Europe/Brussels:20260426T070000
+DTEND;TZID=Europe/Brussels:20260426T090000
+DTSTAMP:20260328T112533Z
+UID:2c2bd45e3bb46cd7706624674f7785da@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Here
+LOCATION:Here
+URL:https://www.natuurpunt.be/agenda/vroege-vogelwandeling-met-ontbijt-270
+ 35?date=26/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VROEGE VOGELWANDELING - WEBBEKOMS BROEK DIEST
+DTSTART;TZID=Europe/Brussels:20260426T070000
+DTEND;TZID=Europe/Brussels:20260426T120000
+DTSTAMP:20260328T112533Z
+UID:034b02f5e762033b51a5272aa5881bee@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Diest
+LOCATION:Diest
+URL:https://www.natuurpunt.be/agenda/vroege-vogelwandeling-webbekoms-broek
+ -diest-28542?date=26/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Begeleide wandeling in het Walenbos
+DTSTART;TZID=Europe/Brussels:20260426T083000
+DTEND;TZID=Europe/Brussels:20260426T113000
+DTSTAMP:20260328T112533Z
+UID:8bffbd649ca929478d809492ed449b53@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Tielt-Wi
+LOCATION:Tielt-Wi
+URL:https://www.natuurpunt.be/agenda/begeleide-wandeling-in-het-walenbos-2
+ 8565?date=26/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Landschapswandeling door heuvel en dal\, naar het Goorbroek
+DTSTART;TZID=Europe/Brussels:20260426T090000
+DTEND;TZID=Europe/Brussels:20260426T123000
+DTSTAMP:20260328T112533Z
+UID:4f202e2256a98ca375b59aade4062adb@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Lubbeek
+LOCATION:Lubbeek
+URL:https://www.natuurpunt.be/agenda/landschapswandeling-door-heuvel-en-da
+ l-naar-het-goorbroek-28064?date=26/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Voorjaarsbloeiers in Dokkene
+DTSTART;TZID=Europe/Brussels:20260426T090000
+DTEND;TZID=Europe/Brussels:20260426T120000
+DTSTAMP:20260328T112533Z
+UID:b754cbc3c72cca6f63a15d2c6c71b26c@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Opwijk
+LOCATION:Opwijk
+URL:https://www.natuurpunt.be/agenda/voorjaarsbloeiers-in-dokkene-28298?da
+ te=26/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wandeling "natuur in de stad" in het noordelijk deel van Leuven
+DTSTART;TZID=Europe/Brussels:20260426T100000
+DTEND;TZID=Europe/Brussels:20260426T130000
+DTSTAMP:20260328T112533Z
+UID:6c4bd7590216435c20f796c94e12a116@natuurpunt.be
+DESCRIPTION:Natuurpunt event in "
+LOCATION:"
+URL:https://www.natuurpunt.be/agenda/wandeling-natuur-in-de-stad-in-het-no
+ ordelijk-deel-van-leuven-27203?date=26/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NGZ // Sagen en Legendes van het Zoniënwoud (erfgoeddag)
+DTSTART;TZID=Europe/Brussels:20260426T103000
+DTEND;TZID=Europe/Brussels:20260426T133000
+DTSTAMP:20260328T112533Z
+UID:78f6feb4a9692f213d623d78f08d2d86@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Hoeilaart
+LOCATION:Hoeilaart
+URL:https://www.natuurpunt.be/agenda/ngz-sagen-en-legendes-van-het-zonienw
+ oud-erfgoeddag-27243?date=26/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zuurdesembrood in de houtoven (erfgoeddag)
+DTSTART;TZID=Europe/Brussels:20260426T130000
+DTEND;TZID=Europe/Brussels:20260426T163000
+DTSTAMP:20260328T112533Z
+UID:b2f1a6de7bcc8938484a9f5c54a96c90@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/zuurdesembrood-in-de-houtoven-erfgoed
+ dag-26676?date=26/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feestviering 25 jaar Natuurpunt Wemmel
+DTSTART;TZID=Europe/Brussels:20260426T134500
+DTEND;TZID=Europe/Brussels:20260426T173000
+DTSTAMP:20260328T112533Z
+UID:94192f029215ec1cf00820dab7c3bc1d@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/feestviering-25-jaar-natuurpunt-wemme
+ l-28441?date=26/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Landschapswandeling bij de buren in Lennik
+DTSTART;TZID=Europe/Brussels:20260426T140000
+DTEND;TZID=Europe/Brussels:20260426T170000
+DTSTAMP:20260328T112533Z
+UID:bedc419e1562137af0eee0a6e4cae27b@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Le
+LOCATION:Le
+URL:https://www.natuurpunt.be/agenda/landschapswandeling-bij-de-buren-in-l
+ ennik-26871?date=26/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daslookwandeling in de Hagelandse vallei
+DTSTART;TZID=Europe/Brussels:20260426T140000
+DTEND;TZID=Europe/Brussels:20260426T170000
+DTSTAMP:20260328T112533Z
+UID:f5b6f6d19872e67a4283276feddcdd34@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Rotselaar
+LOCATION:Rotselaar
+URL:https://www.natuurpunt.be/agenda/daslookwandeling-in-de-hagelandse-val
+ lei-27026?date=26/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geleide wandeling in het Bos van Aa - Lente-editie
+DTSTART;TZID=Europe/Brussels:20260426T140000
+DTEND;TZID=Europe/Brussels:20260426T170000
+DTSTAMP:20260328T112533Z
+UID:706961f2b54c488d484fa811ab36dc1a@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Zemst
+LOCATION:Zemst
+URL:https://www.natuurpunt.be/agenda/geleide-wandeling-in-het-bos-van-aa-l
+ ente-editie-26595?date=26/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inventarisatie Gemeentelijk Natuurreservaat Nattestraat
+DTSTART;TZID=Europe/Brussels:20260426T140000
+DTEND;TZID=Europe/Brussels:20260426T170000
+DTSTAMP:20260328T112533Z
+UID:ec10bca39188bd727a5d38635a2b0c5d@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/inventarisatie-gemeentelijk-natuurres
+ ervaat-nattestraat-28664?date=26/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erfgoedwandeling
+DTSTART;TZID=Europe/Brussels:20260426T140000
+DTEND;TZID=Europe/Brussels:20260426T170000
+DTSTAMP:20260328T112533Z
+UID:4632faa2f80a6ce3645c01e1212d6f7e@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Zemst
+LOCATION:Zemst
+URL:https://www.natuurpunt.be/agenda/erfgoedwandeling-28130?date=26/04/202
+ 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Natuur-begeleider voor jonge kinderen
+DTSTART;TZID=Europe/Brussels:20260427T100000
+DTEND;TZID=Europe/Brussels:20260427T130000
+DTSTAMP:20260328T112533Z
+UID:7d57a242f4899e334e17a5b653b56959@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Natuur-begeleider
+LOCATION:Natuur-begeleider
+URL:https://www.natuurpunt.be/agenda/workshop-natuur-begeleider-voor-jonge
+ -kinderen-28390?date=27/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vogelvrije vrijwilligerswandeling met Stijn
+DTSTART;TZID=Europe/Brussels:20260429T063000
+DTEND;TZID=Europe/Brussels:20260429T093000
+DTSTAMP:20260328T112533Z
+UID:e42d0335a7ee1b2315ad45fa454a1933@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Hoeilaart
+LOCATION:Hoeilaart
+URL:https://www.natuurpunt.be/agenda/vogelvrije-vrijwilligerswandeling-met
+ -stijn-26688?date=29/04/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Klusdag op de hoeve
+DTSTART;TZID=Europe/Brussels:20260430T093000
+DTEND;TZID=Europe/Brussels:20260430T123000
+DTSTAMP:20260328T112533Z
+UID:7ef4f2335720826f6c189bbbd431839c@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/klusdag-op-de-hoeve-26980?date=30/04/
+ 2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CURSUS STELTLOPERS
+DTSTART;TZID=Europe/Brussels:20260430T190000
+DTEND;TZID=Europe/Brussels:20260430T220000
+DTSTAMP:20260328T112533Z
+UID:8973fdba4c4788fd8a7ef08123907157@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/cursus-steltlopers-26297?date=30/04/2
+ 026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1 MeiMarkt 2026
+DTSTART;TZID=Europe/Brussels:20260501T140000
+DTEND;TZID=Europe/Brussels:20260501T180000
+DTSTAMP:20260328T112533Z
+UID:640d02e78c2049d78c99674f5d0305b9@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/1-meimarkt-2026-27984?date=01/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nachtegalenwandeling met ontbijt
+DTSTART;TZID=Europe/Brussels:20260502T050000
+DTEND;TZID=Europe/Brussels:20260502T080000
+DTSTAMP:20260328T112533Z
+UID:8b1bb49ff161866ad6effd88b9581737@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Zemst
+LOCATION:Zemst
+URL:https://www.natuurpunt.be/agenda/nachtegalenwandeling-met-ontbijt-2813
+ 2?date=02/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vroege vogelwandeling met ontbijt
+DTSTART;TZID=Europe/Brussels:20260502T073000
+DTEND;TZID=Europe/Brussels:20260502T120000
+DTSTAMP:20260328T112533Z
+UID:cd36b1d8b30826a1266a55c465ec55fd@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Asse
+LOCATION:Asse
+URL:https://www.natuurpunt.be/agenda/vroege-vogelwandeling-met-ontbijt-271
+ 46?date=02/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natuurpunt Tielt-Winge: werk- en speurdag: Tussen 2 Motten
+DTSTART;TZID=Europe/Brussels:20260502T090000
+DTEND;TZID=Europe/Brussels:20260502T120000
+DTSTAMP:20260328T112533Z
+UID:b05d18d8ad5c1921624fc0c1bd6d477d@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/natuurpunt-tielt-winge-werk-en-speurd
+ ag-tussen-2-motten-27347?date=02/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werkdagen Vlierbeek
+DTSTART;TZID=Europe/Brussels:20260502T100000
+DTEND;TZID=Europe/Brussels:20260502T120000
+DTSTAMP:20260328T112533Z
+UID:4ce10b68bca659ed11c6a6b77d795198@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/werkdagen-vlierbeek-28511?date=02/05/
+ 2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wilde Snuitdag in Wijgmaalbroek
+DTSTART;TZID=Europe/Brussels:20260502T140000
+DTEND;TZID=Europe/Brussels:20260502T170000
+DTSTAMP:20260328T112533Z
+UID:b2460cf7ec95e36b48b2900e0fb72f4e@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/wilde-snuitdag-in-wijgmaalbroek-27255
+ ?date=02/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vroege vogelwandeling door de Hagelandse Vallei
+DTSTART;TZID=Europe/Brussels:20260503T063000
+DTEND;TZID=Europe/Brussels:20260503T093000
+DTSTAMP:20260328T112533Z
+UID:9aa71d5872a2768933ad72ad7d358872@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Rotselaar
+LOCATION:Rotselaar
+URL:https://www.natuurpunt.be/agenda/vroege-vogelwandeling-door-de-hagelan
+ dse-vallei-27695?date=03/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nachtegalenwandeling
+DTSTART;TZID=Europe/Brussels:20260503T063000
+DTEND;TZID=Europe/Brussels:20260503T093000
+DTSTAMP:20260328T112533Z
+UID:1d78ee238bcf9d4fc76f33d3793458c3@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Zemst
+LOCATION:Zemst
+URL:https://www.natuurpunt.be/agenda/nachtegalenwandeling-26597?date=03/05
+ /2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vroegeochtendwandeling Vogelzang
+DTSTART;TZID=Europe/Brussels:20260503T070000
+DTEND;TZID=Europe/Brussels:20260503T110000
+DTSTAMP:20260328T112533Z
+UID:64153e6923c05abf24f055d83fba449a@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Si
+LOCATION:Si
+URL:https://www.natuurpunt.be/agenda/vroegeochtendwandeling-vogelzang-2834
+ 5?date=03/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2 (H)eerlijk ontbijt wandelingen
+DTSTART;TZID=Europe/Brussels:20260503T070000
+DTEND;TZID=Europe/Brussels:20260503T100000
+DTSTAMP:20260328T112533Z
+UID:fd8f46eef62a05949b79c36f1a1f60b6@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Boortmeerbeek
+LOCATION:Boortmeerbeek
+URL:https://www.natuurpunt.be/agenda/2-heerlijk-ontbijt-wandelingen-26430?
+ date=03/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daguitstap naar de Groene Vallei
+DTSTART;TZID=Europe/Brussels:20260503T090000
+DTEND;TZID=Europe/Brussels:20260503T160000
+DTSTAMP:20260328T112533Z
+UID:b46b73a98119d2db923ddfa3bb429c68@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Here
+LOCATION:Here
+URL:https://www.natuurpunt.be/agenda/daguitstap-naar-de-groene-vallei-2774
+ 4?date=03/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werkdag Linterse Natuurgebieden
+DTSTART;TZID=Europe/Brussels:20260503T090000
+DTEND;TZID=Europe/Brussels:20260503T130000
+DTSTAMP:20260328T112533Z
+UID:60eeb078ae2e3518c468e0f9d78984e5@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/werkdag-linterse-natuurgebieden-21124
+ ?date=03/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop: Ecologisch omgaan met tuin- en keukenafval
+DTSTART;TZID=Europe/Brussels:20260503T100000
+DTEND;TZID=Europe/Brussels:20260503T130000
+DTSTAMP:20260328T112533Z
+UID:536b1a491414122fd4a4efd73231f8f9@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/workshop-ecologisch-omgaan-met-tuin-e
+ n-keukenafval-28524?date=03/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run for Nature Dassenaarde 2026
+DTSTART;TZID=Europe/Brussels:20260503T100000
+DTEND;TZID=Europe/Brussels:20260503T130000
+DTSTAMP:20260328T112533Z
+UID:0c3e67325930ea226154fa2659c6d1c7@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/run-for-nature-dassenaarde-2026-26571
+ ?date=03/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geurige kruiden-en bomenwandeling in het Kloosterbroek.
+DTSTART;TZID=Europe/Brussels:20260503T140000
+DTEND;TZID=Europe/Brussels:20260503T170000
+DTSTAMP:20260328T112533Z
+UID:dbc48eba6cb826cd67b7243c133fdaf9@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Holsbeek
+LOCATION:Holsbeek
+URL:https://www.natuurpunt.be/agenda/geurige-kruiden-en-bomenwandeling-in-
+ het-kloosterbroek-26243?date=03/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NGZ// Kwijt in de IJstijd ( Arboretum van Tervuren).
+DTSTART;TZID=Europe/Brussels:20260503T140000
+DTEND;TZID=Europe/Brussels:20260503T170000
+DTSTAMP:20260328T112533Z
+UID:f3d878a01ab7bab955ce193982b6a567@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Tervure
+LOCATION:Tervure
+URL:https://www.natuurpunt.be/agenda/ngz-kwijt-in-de-ijstijd-arboretum-van
+ -tervuren-27855?date=03/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Landen met bezoek aan Rufferdinge en Sint Gitter
+DTSTART;TZID=Europe/Brussels:20260503T140000
+DTEND;TZID=Europe/Brussels:20260503T163000
+DTSTAMP:20260328T112533Z
+UID:3f8441f3e399ad10fa502adf51a2cbd7@natuurpunt.be
+DESCRIPTION:Natuurpunt event in La
+LOCATION:La
+URL:https://www.natuurpunt.be/agenda/landen-met-bezoek-aan-rufferdinge-en-
+ sint-gitter-26908?date=03/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orchideeënwandeling Snoekengracht
+DTSTART;TZID=Europe/Brussels:20260503T140000
+DTEND;TZID=Europe/Brussels:20260503T170000
+DTSTAMP:20260328T112533Z
+UID:d97d3c783966c20fad45c2336134eb43@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Boutersem
+LOCATION:Boutersem
+URL:https://www.natuurpunt.be/agenda/orchideeenwandeling-snoekengracht-268
+ 52?date=03/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:wandeling "De Dijle levend door Leuven" in Leuven zuid
+DTSTART;TZID=Europe/Brussels:20260503T140000
+DTEND;TZID=Europe/Brussels:20260503T170000
+DTSTAMP:20260328T112533Z
+UID:f41d50707102e7c14f19d7e16604c08c@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Leuve
+LOCATION:Leuve
+URL:https://www.natuurpunt.be/agenda/wandeling-de-dijle-levend-door-leuven
+ -in-leuven-zuid-28247?date=03/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wilde Snuitdag in Vlierbeek
+DTSTART;TZID=Europe/Brussels:20260503T140000
+DTEND;TZID=Europe/Brussels:20260503T170000
+DTSTAMP:20260328T112533Z
+UID:70177add0f9623dac34c1fda12d2e090@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/wilde-snuitdag-in-vlierbeek-27256?dat
+ e=03/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Infosessie 'De natuur in je testament' Lennik en buurgemeenten
+DTSTART;TZID=Europe/Brussels:20260504T150000
+DTEND;TZID=Europe/Brussels:20260504T160000
+DTSTAMP:20260328T112533Z
+UID:05b38525982254577392b95b826d1ac9@natuurpunt.be
+DESCRIPTION:Natuurpunt event in &
+LOCATION:&
+URL:https://www.natuurpunt.be/agenda/infosessie-de-natuur-in-je-testament-
+ lennik-en-buurgemeenten-28015?date=04/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werkdagen Vlierbeek
+DTSTART;TZID=Europe/Brussels:20260507T100000
+DTEND;TZID=Europe/Brussels:20260507T120000
+DTSTAMP:20260328T112533Z
+UID:5c4e9c2e8898c0e1d435790652e0e796@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/werkdagen-vlierbeek-28511?date=07/05/
+ 2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:op pad met beheerteam: visiedagen 2026. Boekhoutbos bebossing 2 ja
+ ar later
+DTSTART;TZID=Europe/Brussels:20260507T193000
+DTEND;TZID=Europe/Brussels:20260507T220000
+DTSTAMP:20260328T112533Z
+UID:029a093e473af99fe6ab12e6139b3f55@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/op-pad-met-beheerteam-visiedagen-2026
+ -boekhoutbos-bebossing-2-jaar-later-26968?date=07/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:100 jaar Attenborough - 1000 soorten weekend Naturpunt Halle en JN
+ M Zuid-West Brabant
+DTSTART;TZID=Europe/Brussels:20260508T100000
+DTEND;TZID=Europe/Brussels:20260508T130000
+DTSTAMP:20260328T112533Z
+UID:b19b6dcf370009b2399fb897d3bd472d@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/100-jaar-attenborough-1000-soorten-we
+ ekend-naturpunt-halle-en-jnm-zuid-west-brabant-28931?date=08/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stiltewandeling: welke vogel is ook al wakker?
+DTSTART;TZID=Europe/Brussels:20260509T050000
+DTEND;TZID=Europe/Brussels:20260509T080000
+DTSTAMP:20260328T112533Z
+UID:228b8ce2be75640c5ef2a85db617be28@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Ter
+LOCATION:Ter
+URL:https://www.natuurpunt.be/agenda/stiltewandeling-welke-vogel-is-ook-al
+ -wakker-28556?date=09/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nachtvlinders in het Kollintenbos
+DTSTART;TZID=Europe/Brussels:20260509T060000
+DTEND;TZID=Europe/Brussels:20260509T090000
+DTSTAMP:20260328T112533Z
+UID:0b47725c11bcbea09f692193c7fb2d7a@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/nachtvlinders-in-het-kollintenbos-265
+ 98?date=09/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vroege Vogelswandeling
+DTSTART;TZID=Europe/Brussels:20260509T060000
+DTEND;TZID=Europe/Brussels:20260509T090000
+DTSTAMP:20260328T112533Z
+UID:4b41ab4b1d681f5fd58bb334f5e4f0dd@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Opwijk
+LOCATION:Opwijk
+URL:https://www.natuurpunt.be/agenda/vroege-vogelswandeling-28696?date=09/
+ 05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerdag op de Koeheide
+DTSTART;TZID=Europe/Brussels:20260509T090000
+DTEND;TZID=Europe/Brussels:20260509T120000
+DTSTAMP:20260328T112533Z
+UID:a2e04f9e8662f072bb401b0f9d82a255@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerdag-op-de-koeheide-26147?date=0
+ 9/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerwerken Grooten Bosch te Roosdaal
+DTSTART;TZID=Europe/Brussels:20260509T093000
+DTEND;TZID=Europe/Brussels:20260509T120000
+DTSTAMP:20260328T112533Z
+UID:e411488de441da2fcee15857edaf9059@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerwerken-grooten-bosch-te-roosdaa
+ l-26872?date=09/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:100 jaar Attenborough - 1000 soorten weekend Naturpunt Halle en JN
+ M Zuid-West Brabant
+DTSTART;TZID=Europe/Brussels:20260509T100000
+DTEND;TZID=Europe/Brussels:20260509T130000
+DTSTAMP:20260328T112533Z
+UID:0a3e02055fdc75ec172741d9744bde14@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/100-jaar-attenborough-1000-soorten-we
+ ekend-naturpunt-halle-en-jnm-zuid-west-brabant-28931?date=09/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerwerkdag Demerbroeken - Voortberg / Grote grazers
+DTSTART;TZID=Europe/Brussels:20260509T130000
+DTEND;TZID=Europe/Brussels:20260509T170000
+DTSTAMP:20260328T112533Z
+UID:f6cd70f0401966f96482fd6ab6e0c32c@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerwerkdag-demerbroeken-voortberg-
+ grote-grazers-28754?date=09/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerwerken door de WEEKEND-BEVERS
+DTSTART;TZID=Europe/Brussels:20260509T133000
+DTEND;TZID=Europe/Brussels:20260509T163000
+DTSTAMP:20260328T112533Z
+UID:bcf3018d20f3c28cef87122e3d10e33c@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerwerken-door-de-weekend-bevers-2
+ 8405?date=09/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inventarisatie kamsalamanderpoelen
+DTSTART;TZID=Europe/Brussels:20260509T140000
+DTEND;TZID=Europe/Brussels:20260509T170000
+DTSTAMP:20260328T112533Z
+UID:69aaa52741252685d031053c33991a71@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Haacht
+LOCATION:Haacht
+URL:https://www.natuurpunt.be/agenda/inventarisatie-kamsalamanderpoelen-26
+ 990?date=09/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flora meetnet Steenhuffel.
+DTSTART;TZID=Europe/Brussels:20260509T140000
+DTEND;TZID=Europe/Brussels:20260509T170000
+DTSTAMP:20260328T112533Z
+UID:5698a905f87991852d8cd514cc1ddea5@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/flora-meetnet-steenhuffel-28265?date=
+ 09/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wilde Snuitdag: Natuurpunt Linter
+DTSTART;TZID=Europe/Brussels:20260509T140000
+DTEND;TZID=Europe/Brussels:20260509T170000
+DTSTAMP:20260328T112533Z
+UID:cb80672bf5d3760b04e350e5eec28fb3@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/wilde-snuitdag-natuurpunt-linter-2814
+ 6?date=09/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plantenexcursie Steenhuffel
+DTSTART;TZID=Europe/Brussels:20260509T140000
+DTEND;TZID=Europe/Brussels:20260509T170000
+DTSTAMP:20260328T112533Z
+UID:0279f4abd8788b2e8c9ad0484b432361@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/plantenexcursie-steenhuffel-28538?dat
+ e=09/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ze hebben hun naam niet gestolen!
+DTSTART;TZID=Europe/Brussels:20260509T140000
+DTEND;TZID=Europe/Brussels:20260509T170000
+DTSTAMP:20260328T112533Z
+UID:efe4b9db3f1a7f1f0acd83c74ae303de@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Zemst
+LOCATION:Zemst
+URL:https://www.natuurpunt.be/agenda/ze-hebben-hun-naam-niet-gestolen-2813
+ 3?date=09/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vroege vogelwandeling
+DTSTART;TZID=Europe/Brussels:20260510T070000
+DTEND;TZID=Europe/Brussels:20260510T113000
+DTSTAMP:20260328T112533Z
+UID:bade268e57070d76a9598b38ce1d49d9@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Boutersem
+LOCATION:Boutersem
+URL:https://www.natuurpunt.be/agenda/vroege-vogelwandeling-26853?date=10/0
+ 5/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werkdag Loobergen
+DTSTART;TZID=Europe/Brussels:20260510T093000
+DTEND;TZID=Europe/Brussels:20260510T120000
+DTSTAMP:20260328T112533Z
+UID:63580cc4b339f32943b3b63f5d2e79ba@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/werkdag-loobergen-27776?date=10/05/20
+ 26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:wandeling "De Dijlemeander in Wijgmaal: mysterieuze meanders"
+DTSTART;TZID=Europe/Brussels:20260510T100000
+DTEND;TZID=Europe/Brussels:20260510T130000
+DTSTAMP:20260328T112533Z
+UID:1ac7eb94ad36cb691aed2d3f813abc03@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Leuve
+LOCATION:Leuve
+URL:https://www.natuurpunt.be/agenda/wandeling-de-dijlemeander-in-wijgmaal
+ -mysterieuze-meanders-27200?date=10/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Openlucht lezing: 'het bomenboek' (2e zondag Zoniën)
+DTSTART;TZID=Europe/Brussels:20260510T103000
+DTEND;TZID=Europe/Brussels:20260510T133000
+DTSTAMP:20260328T112533Z
+UID:1540c0837a16d847c900bae83673325c@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Hoeilaart
+LOCATION:Hoeilaart
+URL:https://www.natuurpunt.be/agenda/openlucht-lezing-het-bomenboek-2e-zon
+ dag-zonien-28135?date=10/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NGZ// Wat het Zoniënwoud doet voor onze gezondheid.
+DTSTART;TZID=Europe/Brussels:20260510T140000
+DTEND;TZID=Europe/Brussels:20260510T170000
+DTSTAMP:20260328T112533Z
+UID:dfab469174c63fc1ccbc1ed9022f3f0c@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Hoeilaart
+LOCATION:Hoeilaart
+URL:https://www.natuurpunt.be/agenda/ngz-wat-het-zonienwoud-doet-voor-onze
+ -gezondheid-27862?date=10/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wandeling in het Kollintenbos
+DTSTART;TZID=Europe/Brussels:20260510T140000
+DTEND;TZID=Europe/Brussels:20260510T170000
+DTSTAMP:20260328T112533Z
+UID:2c5202fd77826fc996520a50b77446ce@natuurpunt.be
+DESCRIPTION:Natuurpunt event in i
+LOCATION:i
+URL:https://www.natuurpunt.be/agenda/wandeling-in-het-kollintenbos-26599?d
+ ate=10/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Landschapswandeling Geetsvondel
+DTSTART;TZID=Europe/Brussels:20260510T140000
+DTEND;TZID=Europe/Brussels:20260510T170000
+DTSTAMP:20260328T112533Z
+UID:827f18effa3ad06320136f5a1ebe2d3c@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Tremelo
+LOCATION:Tremelo
+URL:https://www.natuurpunt.be/agenda/landschapswandeling-geetsvondel-26758
+ ?date=10/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lentewandeling langs de Zuunbeek naar natuurgebied Oude Zuun
+DTSTART;TZID=Europe/Brussels:20260510T140000
+DTEND;TZID=Europe/Brussels:20260510T170000
+DTSTAMP:20260328T112533Z
+UID:410dcb68877703493d46a10328c30d3a@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Si
+LOCATION:Si
+URL:https://www.natuurpunt.be/agenda/lentewandeling-langs-de-zuunbeek-naar
+ -natuurgebied-oude-zuun-25434?date=10/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Koeboswandeling
+DTSTART;TZID=Europe/Brussels:20260510T140000
+DTEND;TZID=Europe/Brussels:20260510T170000
+DTSTAMP:20260328T112533Z
+UID:dab6a3fc896239e0540cad2c199076bf@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Lubbeek
+LOCATION:Lubbeek
+URL:https://www.natuurpunt.be/agenda/koeboswandeling-28637?date=10/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wilde planten plukken en degusteren
+DTSTART;TZID=Europe/Brussels:20260510T140000
+DTEND;TZID=Europe/Brussels:20260510T170000
+DTSTAMP:20260328T112533Z
+UID:d28e8ed78e4a6def582bf24e61ddbc01@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/wilde-planten-plukken-en-degusteren-2
+ 6841?date=10/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werkdagen Vlierbeek
+DTSTART;TZID=Europe/Brussels:20260512T100000
+DTEND;TZID=Europe/Brussels:20260512T120000
+DTSTAMP:20260328T112533Z
+UID:2bd778eb7547a539dd8f081aff75ae00@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/werkdagen-vlierbeek-28511?date=12/05/
+ 2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerwerken Dalemhof
+DTSTART;TZID=Europe/Brussels:20260516T090000
+DTEND;TZID=Europe/Brussels:20260516T120000
+DTSTAMP:20260328T112533Z
+UID:35b63df3514befb5fd5144d77f64a28c@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerwerken-dalemhof-16007?date=16/0
+ 5/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gezinswerkdag op de Wijngaardberg
+DTSTART;TZID=Europe/Brussels:20260516T090000
+DTEND;TZID=Europe/Brussels:20260516T120000
+DTSTAMP:20260328T112533Z
+UID:49300507f51ec31d3eafb91692b9058e@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/gezinswerkdag-op-de-wijngaardberg-262
+ 44?date=16/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Klusdag op de hoeve
+DTSTART;TZID=Europe/Brussels:20260516T093000
+DTEND;TZID=Europe/Brussels:20260516T123000
+DTSTAMP:20260328T112533Z
+UID:6743e63504869b42fd621e56eaa2e123@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/klusdag-op-de-hoeve-26980?date=16/05/
+ 2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thaborwandeling ism MS-liga Vlaams-Brabant West
+DTSTART;TZID=Europe/Brussels:20260516T140000
+DTEND;TZID=Europe/Brussels:20260516T160000
+DTSTAMP:20260328T112533Z
+UID:585d5e82a7c6e2f0d2768aa5c1156dca@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Dilbeek
+LOCATION:Dilbeek
+URL:https://www.natuurpunt.be/agenda/thaborwandeling-ism-ms-liga-vlaams-br
+ abant-west-26942?date=16/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vroege vogelwandeling in het Silsombos
+DTSTART;TZID=Europe/Brussels:20260517T070000
+DTEND;TZID=Europe/Brussels:20260517T100000
+DTSTAMP:20260328T112533Z
+UID:1b582be8f2ff30f7cb51857348575975@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Korte
+LOCATION:Korte
+URL:https://www.natuurpunt.be/agenda/vroege-vogelwandeling-in-het-silsombo
+ s-28423?date=17/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VROEGE VOGELWANDELING - DE GETEVALLEI
+DTSTART;TZID=Europe/Brussels:20260517T070000
+DTEND;TZID=Europe/Brussels:20260517T120000
+DTSTAMP:20260328T112533Z
+UID:d90aa3ece3e3b1b93aa14e656a5e8ff2@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Li
+LOCATION:Li
+URL:https://www.natuurpunt.be/agenda/vroege-vogelwandeling-de-getevallei-2
+ 8544?date=17/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spiraalvlechten met natuurlijke materialen
+DTSTART;TZID=Europe/Brussels:20260517T100000
+DTEND;TZID=Europe/Brussels:20260517T150000
+DTSTAMP:20260328T112533Z
+UID:0fa9f530577211a4809d155916e4c982@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/spiraalvlechten-met-natuurlijke-mater
+ ialen-27470?date=17/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wilde kruidenwandeling op de Koeheide
+DTSTART;TZID=Europe/Brussels:20260517T100000
+DTEND;TZID=Europe/Brussels:20260517T130000
+DTSTAMP:20260328T112533Z
+UID:b157432f78aeca7a5e474a77b98e8a24@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Bertem
+LOCATION:Bertem
+URL:https://www.natuurpunt.be/agenda/wilde-kruidenwandeling-op-de-koeheide
+ -27693?date=17/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avondwandeling in park en bos van Kasteel Gaasbeek
+DTSTART;TZID=Europe/Brussels:20260520T190000
+DTEND;TZID=Europe/Brussels:20260520T220000
+DTSTAMP:20260328T112533Z
+UID:184709f6a241cab08a17aafed980cb3f@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Le
+LOCATION:Le
+URL:https://www.natuurpunt.be/agenda/avondwandeling-in-park-en-bos-van-kas
+ teel-gaasbeek-28698?date=20/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NGZ// Donawa. Ontdekkingstocht in het Zoniënwoud.
+DTSTART;TZID=Europe/Brussels:20260521T140000
+DTEND;TZID=Europe/Brussels:20260521T170000
+DTSTAMP:20260328T112533Z
+UID:681a8373efb93b03250090644e271007@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Hoeilaart
+LOCATION:Hoeilaart
+URL:https://www.natuurpunt.be/agenda/ngz-donawa-ontdekkingstocht-in-het-zo
+ nienwoud-27877?date=21/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Op pad met beheerteam:visiedagen 2026. Grote Getevallei in Hoegaar
+ den
+DTSTART;TZID=Europe/Brussels:20260521T193000
+DTEND;TZID=Europe/Brussels:20260521T220000
+DTSTAMP:20260328T112533Z
+UID:86b91fe62b7981f0de9d25d5fdbf6dd5@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/op-pad-met-beheerteamvisiedagen-2026-
+ grote-getevallei-in-hoegaarden-26969?date=21/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vogelwandeling in 'Het Vinne'
+DTSTART;TZID=Europe/Brussels:20260523T090000
+DTEND;TZID=Europe/Brussels:20260523T120000
+DTSTAMP:20260328T112533Z
+UID:8ab2aabdd0b32820e70e344d02f4db6c@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Zoutleeuw
+LOCATION:Zoutleeuw
+URL:https://www.natuurpunt.be/agenda/vogelwandeling-in-het-vinne-27291?dat
+ e=23/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bushcraft op de hoeve
+DTSTART;TZID=Europe/Brussels:20260523T140000
+DTEND;TZID=Europe/Brussels:20260523T170000
+DTSTAMP:20260328T112533Z
+UID:291f77a360dedc7e1c7b7bf0600646a7@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/bushcraft-op-de-hoeve-27244?date=23/0
+ 5/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lente in De Spicht
+DTSTART;TZID=Europe/Brussels:20260523T140000
+DTEND;TZID=Europe/Brussels:20260523T170000
+DTSTAMP:20260328T112533Z
+UID:84d04827d4a8fe24d3ef83b65503eb9b@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Lubbeek
+LOCATION:Lubbeek
+URL:https://www.natuurpunt.be/agenda/lente-in-de-spicht-28638?date=23/05/2
+ 026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nachtvlinderinventarisatie Ter Pede (Bioblitz Natuurpunt Dilbeek 2
+ 026)
+DTSTART;TZID=Europe/Brussels:20260524T053000
+DTEND;TZID=Europe/Brussels:20260524T080000
+DTSTAMP:20260328T112533Z
+UID:e6f71ecc43757a9d2dbf358833477ce3@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/nachtvlinderinventarisatie-ter-pede-b
+ ioblitz-natuurpunt-dilbeek-2026-28584?date=24/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vogels spotten in en rond Averbode Bos & Heide
+DTSTART;TZID=Europe/Brussels:20260524T070000
+DTEND;TZID=Europe/Brussels:20260524T180000
+DTSTAMP:20260328T112533Z
+UID:838ea8e7fa1faa494f56032d772f7a9a@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Kortrijk
+LOCATION:Kortrijk
+URL:https://www.natuurpunt.be/agenda/vogels-spotten-in-en-rond-averbode-bo
+ s-heide-26138?date=24/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gluren bij de buren - Voorjaarswandeling Markvallei
+DTSTART;TZID=Europe/Brussels:20260524T090000
+DTEND;TZID=Europe/Brussels:20260524T120000
+DTSTAMP:20260328T112533Z
+UID:450f41ad6f46179dd196f22a790b1515@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Pajottegem
+LOCATION:Pajottegem
+URL:https://www.natuurpunt.be/agenda/gluren-bij-de-buren-voorjaarswandelin
+ g-markvallei-26778?date=24/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daguitstap Militair domein Grobbendonk
+DTSTART;TZID=Europe/Brussels:20260524T090000
+DTEND;TZID=Europe/Brussels:20260524T170000
+DTSTAMP:20260328T112533Z
+UID:09d3ce2ecd161b6aa63a03913411f34b@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Tremelo
+LOCATION:Tremelo
+URL:https://www.natuurpunt.be/agenda/daguitstap-militair-domein-grobbendon
+ k-28772?date=24/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uitstap ecologische tuinen: natuurinclusief tuinieren
+DTSTART;TZID=Europe/Brussels:20260524T093000
+DTEND;TZID=Europe/Brussels:20260524T123000
+DTSTAMP:20260328T112533Z
+UID:a423bc58a808922b5bcc63b6645f3bc6@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/uitstap-ecologische-tuinen-natuurincl
+ usief-tuinieren-28269?date=24/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bio-blitz Ter Pede
+DTSTART;TZID=Europe/Brussels:20260524T140000
+DTEND;TZID=Europe/Brussels:20260524T160000
+DTSTAMP:20260328T112533Z
+UID:d8fdb9acd51754fe5e75fc10d736c337@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/bio-blitz-ter-pede-26943?date=24/05/2
+ 026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Culinaire planten- en bomenwandeling in Vlierbeek
+DTSTART;TZID=Europe/Brussels:20260524T140000
+DTEND;TZID=Europe/Brussels:20260524T170000
+DTSTAMP:20260328T112533Z
+UID:fb53ea304833e6ce9d394cdbeab99951@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Leuve
+LOCATION:Leuve
+URL:https://www.natuurpunt.be/agenda/culinaire-planten-en-bomenwandeling-i
+ n-vlierbeek-26805?date=24/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plan Boommarterwandeling
+DTSTART;TZID=Europe/Brussels:20260524T140000
+DTEND;TZID=Europe/Brussels:20260524T170000
+DTSTAMP:20260328T112533Z
+UID:f54dbd482da75d780ecfd2ec248ed3ac@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Halle
+LOCATION:Halle
+URL:https://www.natuurpunt.be/agenda/plan-boommarterwandeling-28937?date=2
+ 4/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wandeling "de Dijle levend door Leuven speciaal: erfgoed en natuur
+  in de stad"
+DTSTART;TZID=Europe/Brussels:20260525T100000
+DTEND;TZID=Europe/Brussels:20260525T123000
+DTSTAMP:20260328T112533Z
+UID:582d04b6aab96806b6bf6b4b1447e7fc@natuurpunt.be
+DESCRIPTION:Natuurpunt event in "de
+LOCATION:"de
+URL:https://www.natuurpunt.be/agenda/wandeling-de-dijle-levend-door-leuven
+ -speciaal-erfgoed-en-natuur-in-de-stad-27206?date=25/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week van de Herentse Biodiversiteit
+DTSTART;TZID=Europe/Brussels:20260525T100000
+DTEND;TZID=Europe/Brussels:20260525T130000
+DTSTAMP:20260328T112533Z
+UID:52b7a244fceb30bab3906af9721f4985@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/week-van-de-herentse-biodiversiteit-2
+ 7036?date=25/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week van de Herentse Biodiversiteit
+DTSTART;TZID=Europe/Brussels:20260526T100000
+DTEND;TZID=Europe/Brussels:20260526T130000
+DTSTAMP:20260328T112533Z
+UID:12aa32f0c5ad2726e5ed9c1c1097cee8@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/week-van-de-herentse-biodiversiteit-2
+ 7036?date=26/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week van de Herentse Biodiversiteit
+DTSTART;TZID=Europe/Brussels:20260527T100000
+DTEND;TZID=Europe/Brussels:20260527T130000
+DTSTAMP:20260328T112533Z
+UID:fd255d507f75a37662609d2da941661c@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/week-van-de-herentse-biodiversiteit-2
+ 7036?date=27/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Floraexcursie Torfbroek
+DTSTART;TZID=Europe/Brussels:20260527T140000
+DTEND;TZID=Europe/Brussels:20260527T170000
+DTSTAMP:20260328T112533Z
+UID:a8feae5390465d4a2244e09cd19b3e9d@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/floraexcursie-torfbroek-27815?date=27
+ /05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Klusdag op de hoeve
+DTSTART;TZID=Europe/Brussels:20260528T093000
+DTEND;TZID=Europe/Brussels:20260528T123000
+DTSTAMP:20260328T112533Z
+UID:05022284b8e2d72ecb30443d222c8196@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/klusdag-op-de-hoeve-26980?date=28/05/
+ 2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week van de Herentse Biodiversiteit
+DTSTART;TZID=Europe/Brussels:20260528T100000
+DTEND;TZID=Europe/Brussels:20260528T130000
+DTSTAMP:20260328T112533Z
+UID:981b3855a6bed87a99e8fafc70158972@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/week-van-de-herentse-biodiversiteit-2
+ 7036?date=28/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Op pad met beheerteam:visiedagen 2026. natuurinrichting Grote Vond
+ elbeek
+DTSTART;TZID=Europe/Brussels:20260528T193000
+DTEND;TZID=Europe/Brussels:20260528T220000
+DTSTAMP:20260328T112533Z
+UID:7b1e7dd9b8af750dc93f03406fe0e6b1@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/op-pad-met-beheerteamvisiedagen-2026-
+ natuurinrichting-grote-vondelbeek-26971?date=28/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Klimaatsofa - Archief van mogelijk verlies
+DTSTART;TZID=Europe/Brussels:20260528T200000
+DTEND;TZID=Europe/Brussels:20260528T220000
+DTSTAMP:20260328T112533Z
+UID:3aa4148d801c9bc0f7fa9386f23a8f28@natuurpunt.be
+DESCRIPTION:Natuurpunt event in &
+LOCATION:&
+URL:https://www.natuurpunt.be/agenda/klimaatsofa-archief-van-mogelijk-verl
+ ies-24729?date=28/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week van de Herentse Biodiversiteit
+DTSTART;TZID=Europe/Brussels:20260529T100000
+DTEND;TZID=Europe/Brussels:20260529T130000
+DTSTAMP:20260328T112533Z
+UID:d2f1cdd9cd8552491a42defe2d71a4ad@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/week-van-de-herentse-biodiversiteit-2
+ 7036?date=29/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bezoek diervriendelijke tuin bij Francis Coppin
+DTSTART;TZID=Europe/Brussels:20260529T190000
+DTEND;TZID=Europe/Brussels:20260529T220000
+DTSTAMP:20260328T112533Z
+UID:2f826e635e4afa9c3a583e93a5016e06@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/bezoek-diervriendelijke-tuin-bij-fran
+ cis-coppin-28559?date=29/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerwerkdag Hagelandse Vallei
+DTSTART;TZID=Europe/Brussels:20260530T080000
+DTEND;TZID=Europe/Brussels:20260530T160000
+DTSTAMP:20260328T112533Z
+UID:3092bc48f2cc5af92fc41cc3db427d9f@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerwerkdag-hagelandse-vallei-26224
+ ?date=30/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wat het weefsel verzwijgt
+DTSTART;TZID=Europe/Brussels:20260530T090000
+DTEND;TZID=Europe/Brussels:20260530T120000
+DTSTAMP:20260328T112533Z
+UID:c27a12a7bd31fb17e43963e16441cbbc@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/wat-het-weefsel-verzwijgt-28504?date=
+ 30/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerwerken Natuurpunt Londerzeel
+DTSTART;TZID=Europe/Brussels:20260530T090000
+DTEND;TZID=Europe/Brussels:20260530T120000
+DTSTAMP:20260328T112533Z
+UID:7440b31561f4bb0dc77d480a547177b4@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerwerken-natuurpunt-londerzeel-24
+ 058?date=30/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fauna en Flora inventarisatie op het Hooiland in Ezemaal
+DTSTART;TZID=Europe/Brussels:20260530T100000
+DTEND;TZID=Europe/Brussels:20260530T120000
+DTSTAMP:20260328T112533Z
+UID:0e08094c297c9cbce1076fc55c1671c8@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/fauna-en-flora-inventarisatie-op-het-
+ hooiland-in-ezemaal-27675?date=30/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Familiefietstocht langs groene plekjes in Tienen
+DTSTART;TZID=Europe/Brussels:20260530T100000
+DTEND;TZID=Europe/Brussels:20260530T123000
+DTSTAMP:20260328T112533Z
+UID:8b13982d4627bcf1f4d6bd1f80f46c67@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/familiefietstocht-langs-groene-plekje
+ s-in-tienen-27434?date=30/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cursus Roesten
+DTSTART;TZID=Europe/Brussels:20260530T100000
+DTEND;TZID=Europe/Brussels:20260530T120000
+DTSTAMP:20260328T112533Z
+UID:36e702b42dd9d5433631f9ecb177219f@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/cursus-roesten-26953?date=30/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week van de Herentse Biodiversiteit
+DTSTART;TZID=Europe/Brussels:20260530T100000
+DTEND;TZID=Europe/Brussels:20260530T130000
+DTSTAMP:20260328T112533Z
+UID:d378bc6fdec318752e10042fa3eedea3@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/week-van-de-herentse-biodiversiteit-2
+ 7036?date=30/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bioblitz in Aarschot (Ontdek de geheimen van onze natuur)
+DTSTART;TZID=Europe/Brussels:20260531T060000
+DTEND;TZID=Europe/Brussels:20260531T160000
+DTSTAMP:20260328T112533Z
+UID:9c941eb2fd3cd32e72233e37fa479721@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/bioblitz-in-aarschot-ontdek-de-geheim
+ en-van-onze-natuur-28330?date=31/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ochtendwandeling poelen
+DTSTART;TZID=Europe/Brussels:20260531T090000
+DTEND;TZID=Europe/Brussels:20260531T120000
+DTSTAMP:20260328T112533Z
+UID:cf09fb78364473865c4312a8eb3a7e36@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Tremelo
+LOCATION:Tremelo
+URL:https://www.natuurpunt.be/agenda/ochtendwandeling-poelen-26760?date=31
+ /05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dag van het Park in het Kasteel Ter Wilder (voormiddag)
+DTSTART;TZID=Europe/Brussels:20260531T100000
+DTEND;TZID=Europe/Brussels:20260531T130000
+DTSTAMP:20260328T112533Z
+UID:70e98a8a0bd1d4fe0b30449122ea3698@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Grimberge
+LOCATION:Grimberge
+URL:https://www.natuurpunt.be/agenda/dag-van-het-park-in-het-kasteel-ter-w
+ ilder-voormiddag-27305?date=31/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week van de Herentse Biodiversiteit
+DTSTART;TZID=Europe/Brussels:20260531T100000
+DTEND;TZID=Europe/Brussels:20260531T130000
+DTSTAMP:20260328T112533Z
+UID:ef0897683a9843d4d7f0bb2863bf5834@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/week-van-de-herentse-biodiversiteit-2
+ 7036?date=31/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:smakelijke en gezellige Ciabatta workshop (houtoven)
+DTSTART;TZID=Europe/Brussels:20260531T130000
+DTEND;TZID=Europe/Brussels:20260531T160000
+DTSTAMP:20260328T112533Z
+UID:f1383875ba830b49135af4cae02e63d0@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/smakelijke-en-gezellige-ciabatta-work
+ shop-houtoven-28546?date=31/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goei Goesting in Natuur!
+DTSTART;TZID=Europe/Brussels:20260531T133000
+DTEND;TZID=Europe/Brussels:20260531T170000
+DTSTAMP:20260328T112533Z
+UID:fd3c72488e8806ca751ada2bfdf322c1@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/goei-goesting-in-natuur-27028?date=31
+ /05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drie beken wandeling
+DTSTART;TZID=Europe/Brussels:20260531T133000
+DTEND;TZID=Europe/Brussels:20260531T143000
+DTSTAMP:20260328T112533Z
+UID:14e90b1ed99f1c39762f739a6f1e056a@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Opwijk
+LOCATION:Opwijk
+URL:https://www.natuurpunt.be/agenda/drie-beken-wandeling-28477?date=31/05
+ /2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Speeddate met onze natuurgebieden
+DTSTART;TZID=Europe/Brussels:20260531T140000
+DTEND;TZID=Europe/Brussels:20260531T170000
+DTSTAMP:20260328T112533Z
+UID:c09e2f65e01ce72f783660c49dce476e@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/speeddate-met-onze-natuurgebieden-281
+ 34?date=31/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orchideeënwandeling Walsbergen
+DTSTART;TZID=Europe/Brussels:20260531T140000
+DTEND;TZID=Europe/Brussels:20260531T170000
+DTSTAMP:20260328T112533Z
+UID:a82ab35a5c728fde0d6473da82648620@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Li
+LOCATION:Li
+URL:https://www.natuurpunt.be/agenda/orchideeenwandeling-walsbergen-28177?
+ date=31/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dag van het Park in het Kasteel Ter Wilder (namiddag)
+DTSTART;TZID=Europe/Brussels:20260531T140000
+DTEND;TZID=Europe/Brussels:20260531T160000
+DTSTAMP:20260328T112533Z
+UID:53169e8bb02fc2ab62f845ac39cb1059@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Grimberge
+LOCATION:Grimberge
+URL:https://www.natuurpunt.be/agenda/dag-van-het-park-in-het-kasteel-ter-w
+ ilder-namiddag-27306?date=31/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Voorjaarswandeling in het Eikenhof
+DTSTART;TZID=Europe/Brussels:20260531T140000
+DTEND;TZID=Europe/Brussels:20260531T170000
+DTSTAMP:20260328T112533Z
+UID:46b2fec8f798a022be0c7749acbaf259@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Korte
+LOCATION:Korte
+URL:https://www.natuurpunt.be/agenda/voorjaarswandeling-in-het-eikenhof-28
+ 709?date=31/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Culinaire planten- en bomenwandeling in Wijgmaalbroek
+DTSTART;TZID=Europe/Brussels:20260531T140000
+DTEND;TZID=Europe/Brussels:20260531T170000
+DTSTAMP:20260328T112533Z
+UID:6d8be36ce03e14afe272e6fd0d241f29@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Leuve
+LOCATION:Leuve
+URL:https://www.natuurpunt.be/agenda/culinaire-planten-en-bomenwandeling-i
+ n-wijgmaalbroek-26807?date=31/05/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Op pad met beheerteam:visiedagen 2026. natuurontwikkeling Rosdel d
+ roge schraalgraslanden
+DTSTART;TZID=Europe/Brussels:20260604T193000
+DTEND;TZID=Europe/Brussels:20260604T220000
+DTSTAMP:20260328T112533Z
+UID:a0f5704ce0f2c9b817e2ddd26fe6c4e5@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/op-pad-met-beheerteamvisiedagen-2026-
+ natuurontwikkeling-rosdel-droge-schraalgraslanden-26972?date=04/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lezing kraaien
+DTSTART;TZID=Europe/Brussels:20260604T200000
+DTEND;TZID=Europe/Brussels:20260604T223000
+DTSTAMP:20260328T112533Z
+UID:58752bb210b2c83987894ccda70a0fed@natuurpunt.be
+DESCRIPTION:Natuurpunt event in kraaie
+LOCATION:kraaie
+URL:https://www.natuurpunt.be/agenda/lezing-kraaien-26412?date=04/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vroedmeesterpadwandeling
+DTSTART;TZID=Europe/Brussels:20260605T210000
+DTEND;TZID=Europe/Brussels:20260605T233000
+DTSTAMP:20260328T112533Z
+UID:29bfdc5c34dbc7af36494e7b253ee2c8@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Si
+LOCATION:Si
+URL:https://www.natuurpunt.be/agenda/vroedmeesterpadwandeling-26191?date=0
+ 5/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VROEGE VOGELWANDELING IN ARONST HOEK
+DTSTART;TZID=Europe/Brussels:20260606T070000
+DTEND;TZID=Europe/Brussels:20260606T120000
+DTSTAMP:20260328T112533Z
+UID:09770180f796e57ddd7286b483f0bab6@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Geetbets
+LOCATION:Geetbets
+URL:https://www.natuurpunt.be/agenda/vroege-vogelwandeling-in-aronst-hoek-
+ 28545?date=06/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natuurpunt Tielt-Winge: werk- en speurdag: Tussen 2 Motten
+DTSTART;TZID=Europe/Brussels:20260606T090000
+DTEND;TZID=Europe/Brussels:20260606T120000
+DTSTAMP:20260328T112533Z
+UID:5e0cd3aa2ea15078462e1cbb5555c706@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/natuurpunt-tielt-winge-werk-en-speurd
+ ag-tussen-2-motten-27347?date=06/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerwerkdag
+DTSTART;TZID=Europe/Brussels:20260606T133000
+DTEND;TZID=Europe/Brussels:20260606T153000
+DTSTAMP:20260328T112533Z
+UID:1626c8a346349c0affba855037da3929@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerwerkdag-26834?date=06/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hommelzoektocht in Diest
+DTSTART;TZID=Europe/Brussels:20260606T140000
+DTEND;TZID=Europe/Brussels:20260606T170000
+DTSTAMP:20260328T112533Z
+UID:71bbd10019b9d55e111fd987bf517d64@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Diest
+LOCATION:Diest
+URL:https://www.natuurpunt.be/agenda/hommelzoektocht-in-diest-28360?date=0
+ 6/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hommelzoektocht in Heverlee
+DTSTART;TZID=Europe/Brussels:20260606T140000
+DTEND;TZID=Europe/Brussels:20260606T170000
+DTSTAMP:20260328T112533Z
+UID:87b6ce554df4fdd00e1958b5139eea3e@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/hommelzoektocht-in-heverlee-27021?dat
+ e=06/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hommelzoektocht in Groenendaal (zaterdag)
+DTSTART;TZID=Europe/Brussels:20260606T140000
+DTEND;TZID=Europe/Brussels:20260606T170000
+DTSTAMP:20260328T112533Z
+UID:92ae0a76e8ba0d466a25302279b02102@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/hommelzoektocht-in-groenendaal-zaterd
+ ag-27418?date=06/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dassenaarde in avondlicht
+DTSTART;TZID=Europe/Brussels:20260606T190000
+DTEND;TZID=Europe/Brussels:20260606T220000
+DTSTAMP:20260328T112533Z
+UID:8575a61631ca4080d4ab65a26ebe0ea2@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Diest
+LOCATION:Diest
+URL:https://www.natuurpunt.be/agenda/dassenaarde-in-avondlicht-26583?date=
+ 06/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kruidenwandeling Pamelse Meersen
+DTSTART;TZID=Europe/Brussels:20260607T094500
+DTEND;TZID=Europe/Brussels:20260607T120000
+DTSTAMP:20260328T112533Z
+UID:0753cfc4e17db8ef01aabc2267feb4eb@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Liedekerke
+LOCATION:Liedekerke
+URL:https://www.natuurpunt.be/agenda/kruidenwandeling-pamelse-meersen-2770
+ 5?date=07/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wandeling in het verborgen natuurgebied de Sloep
+DTSTART;TZID=Europe/Brussels:20260607T100000
+DTEND;TZID=Europe/Brussels:20260607T123000
+DTSTAMP:20260328T112533Z
+UID:42a06faced0d2790164317d8b346fd27@natuurpunt.be
+DESCRIPTION:Natuurpunt event in i
+LOCATION:i
+URL:https://www.natuurpunt.be/agenda/wandeling-in-het-verborgen-natuurgebi
+ ed-de-sloep-28639?date=07/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Natuurdag
+DTSTART;TZID=Europe/Brussels:20260607T130000
+DTEND;TZID=Europe/Brussels:20260607T170000
+DTSTAMP:20260328T112533Z
+UID:228326bbecee8418c9e0fc4e154cb10b@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/open-natuurdag-28348?date=07/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NGZ// Verborgen fauna en flora in het Arboretum van Tervuren.
+DTSTART;TZID=Europe/Brussels:20260607T140000
+DTEND;TZID=Europe/Brussels:20260607T170000
+DTSTAMP:20260328T112533Z
+UID:bf1a067ba2f1c133a3142901dee268e0@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Tervure
+LOCATION:Tervure
+URL:https://www.natuurpunt.be/agenda/ngz-verborgen-fauna-en-flora-in-het-a
+ rboretum-van-tervuren-27886?date=07/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afgelast “Van parken en vijvers”
+DTSTART;TZID=Europe/Brussels:20260607T140000
+DTEND;TZID=Europe/Brussels:20260607T170000
+DTSTAMP:20260328T112533Z
+UID:9a52fc5b9a8525d74e80ecce038438f3@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Bierbeek
+LOCATION:Bierbeek
+URL:https://www.natuurpunt.be/agenda/afgelast-van-parken-en-vijvers-26791?
+ date=07/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Molenbeekvallei Korbeek-lo
+DTSTART;TZID=Europe/Brussels:20260607T140000
+DTEND;TZID=Europe/Brussels:20260607T170000
+DTSTAMP:20260328T112533Z
+UID:b1dc78872507cc5ddb398689555a8cad@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Bierbeek
+LOCATION:Bierbeek
+URL:https://www.natuurpunt.be/agenda/molenbeekvallei-korbeek-lo-28098?date
+ =07/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hommelzoektocht in Groenendaal (zondag)
+DTSTART;TZID=Europe/Brussels:20260607T140000
+DTEND;TZID=Europe/Brussels:20260607T170000
+DTSTAMP:20260328T112533Z
+UID:42d1aab9eedd165d80945e9fb41e4056@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/hommelzoektocht-in-groenendaal-zondag
+ -27419?date=07/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Op stap met de beheerders in de zandgroeve van Kerkom
+DTSTART;TZID=Europe/Brussels:20260607T140000
+DTEND;TZID=Europe/Brussels:20260607T160000
+DTSTAMP:20260328T112533Z
+UID:63757a3333fe7195394f1bf2813c67c5@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Boutersem
+LOCATION:Boutersem
+URL:https://www.natuurpunt.be/agenda/op-stap-met-de-beheerders-in-de-zandg
+ roeve-van-kerkom-26854?date=07/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hommel-de-bolder in de natuur
+DTSTART;TZID=Europe/Brussels:20260607T140000
+DTEND;TZID=Europe/Brussels:20260607T160000
+DTSTAMP:20260328T112533Z
+UID:227a3c53c771f143b7af221e3ae63f9e@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Boortmeerbeek
+LOCATION:Boortmeerbeek
+URL:https://www.natuurpunt.be/agenda/hommel-de-bolder-in-de-natuur-26431?d
+ ate=07/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hommelzoektocht in de Rozendaalbeekvallei
+DTSTART;TZID=Europe/Brussels:20260607T140000
+DTEND;TZID=Europe/Brussels:20260607T170000
+DTSTAMP:20260328T112533Z
+UID:250e5a80017e32b225949ba99f630249@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/hommelzoektocht-in-de-rozendaalbeekva
+ llei-27320?date=07/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fietstocht langs bijenvriendelijke plekjes
+DTSTART;TZID=Europe/Brussels:20260607T140000
+DTEND;TZID=Europe/Brussels:20260607T170000
+DTSTAMP:20260328T112533Z
+UID:4daabe6006538a7283ad733d09983a8f@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/fietstocht-langs-bijenvriendelijke-pl
+ ekjes-28490?date=07/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orchideeënwandeling in 't Droogveld
+DTSTART;TZID=Europe/Brussels:20260607T140000
+DTEND;TZID=Europe/Brussels:20260607T170000
+DTSTAMP:20260328T112533Z
+UID:4bb37adcf7e88642f2ed0c6de7c96081@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Asse
+LOCATION:Asse
+URL:https://www.natuurpunt.be/agenda/orchideeenwandeling-in-t-droogveld-28
+ 293?date=07/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hommelwandeling Londerzeel
+DTSTART;TZID=Europe/Brussels:20260607T140000
+DTEND;TZID=Europe/Brussels:20260607T170000
+DTSTAMP:20260328T112533Z
+UID:842982bb12b77121a48cbc820af3bf13@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Lo
+LOCATION:Lo
+URL:https://www.natuurpunt.be/agenda/hommelwandeling-londerzeel-27915?date
+ =07/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hommelwandeling
+DTSTART;TZID=Europe/Brussels:20260607T140000
+DTEND;TZID=Europe/Brussels:20260607T170000
+DTSTAMP:20260328T112533Z
+UID:a449f15d522236b6a44c1b710d764dfa@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/hommelwandeling-28939?date=07/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natuur in de stad
+DTSTART;TZID=Europe/Brussels:20260607T140000
+DTEND;TZID=Europe/Brussels:20260607T170000
+DTSTAMP:20260328T112533Z
+UID:dd418c1a2d65c9266d573ff3d32edb36@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Halle
+LOCATION:Halle
+URL:https://www.natuurpunt.be/agenda/natuur-in-de-stad-28938?date=07/06/20
+ 26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Infomoment testamenten Meise
+DTSTART;TZID=Europe/Brussels:20260611T150000
+DTEND;TZID=Europe/Brussels:20260611T160000
+DTSTAMP:20260328T112533Z
+UID:2247f9ff0e314fe9be02cca4d5793611@natuurpunt.be
+DESCRIPTION:Natuurpunt event in &
+LOCATION:&
+URL:https://www.natuurpunt.be/agenda/infomoment-testamenten-meise-28753?da
+ te=11/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nocturne Silsombos
+DTSTART;TZID=Europe/Brussels:20260612T190000
+DTEND;TZID=Europe/Brussels:20260612T220000
+DTSTAMP:20260328T112533Z
+UID:371f3f474964cf0df4527bf952a64038@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Korte
+LOCATION:Korte
+URL:https://www.natuurpunt.be/agenda/nocturne-silsombos-27138?date=12/06/2
+ 026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ontbijtactie van Natuurpunt Pajottegem
+DTSTART;TZID=Europe/Brussels:20260613T083000
+DTEND;TZID=Europe/Brussels:20260613T093000
+DTSTAMP:20260328T112533Z
+UID:b3e440595c517c9fd39e2b3848f7f184@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/ontbijtactie-van-natuurpunt-pajottege
+ m-26779?date=13/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zomerwerkdag De Zeyp
+DTSTART;TZID=Europe/Brussels:20260613T090000
+DTEND;TZID=Europe/Brussels:20260613T130000
+DTSTAMP:20260328T112533Z
+UID:fd397068e90ad3e45ea91967e3633ab9@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/zomerwerkdag-de-zeyp-26207?date=13/06
+ /2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerdag op de Koeheide
+DTSTART;TZID=Europe/Brussels:20260613T090000
+DTEND;TZID=Europe/Brussels:20260613T120000
+DTSTAMP:20260328T112533Z
+UID:9e2a5d25a6767507047e32841750cb8a@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerdag-op-de-koeheide-26147?date=1
+ 3/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fauna en Flora inventarisatie op het Hooiland HST in Walshoutem
+DTSTART;TZID=Europe/Brussels:20260613T100000
+DTEND;TZID=Europe/Brussels:20260613T120000
+DTSTAMP:20260328T112533Z
+UID:d42e4c9978384c2aed3c107ea8509750@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/fauna-en-flora-inventarisatie-op-het-
+ hooiland-hst-in-walshoutem-27676?date=13/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SNUIT Workshop: Creatief keramiek beschilderen voor kinderen
+DTSTART;TZID=Europe/Brussels:20260613T140000
+DTEND;TZID=Europe/Brussels:20260613T170000
+DTSTAMP:20260328T112533Z
+UID:3ab1fc56092c69d85792889c23865bd8@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/snuit-workshop-creatief-keramiek-besc
+ hilderen-voor-kinderen-27624?date=13/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vuurvliegjeswandeling
+DTSTART;TZID=Europe/Brussels:20260613T210000
+DTEND;TZID=Europe/Brussels:20260613T233000
+DTSTAMP:20260328T112533Z
+UID:08235439b76fef6e7ae567492bf320a4@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Hoeilaart
+LOCATION:Hoeilaart
+URL:https://www.natuurpunt.be/agenda/vuurvliegjeswandeling-26200?date=13/0
+ 6/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maak vaderdag extra speciaal!
+DTSTART;TZID=Europe/Brussels:20260614T090000
+DTEND;TZID=Europe/Brussels:20260614T110000
+DTSTAMP:20260328T112533Z
+UID:740e8515eec56c3f2d5c8f17d4751456@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/maak-vaderdag-extra-speciaal-27893?da
+ te=14/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werkdag Loobergen
+DTSTART;TZID=Europe/Brussels:20260614T093000
+DTEND;TZID=Europe/Brussels:20260614T120000
+DTSTAMP:20260328T112533Z
+UID:1a27559ade897f7c4c6a93ef08ce2062@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/werkdag-loobergen-27776?date=14/06/20
+ 26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wandelen in Alsemberg\, een minder bekende uithoek van Bertem
+DTSTART;TZID=Europe/Brussels:20260614T100000
+DTEND;TZID=Europe/Brussels:20260614T130000
+DTSTAMP:20260328T112533Z
+UID:5a5b96e3a060cfcfcd563a3a51fc066c@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Bertem
+LOCATION:Bertem
+URL:https://www.natuurpunt.be/agenda/wandelen-in-alsemberg-een-minder-beke
+ nde-uithoek-van-bertem-27694?date=14/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wandeling "natuur in de stad" in het noordelijk deel van Leuven
+DTSTART;TZID=Europe/Brussels:20260614T100000
+DTEND;TZID=Europe/Brussels:20260614T130000
+DTSTAMP:20260328T112533Z
+UID:82512962e6f25b039835653380e09cb7@natuurpunt.be
+DESCRIPTION:Natuurpunt event in "
+LOCATION:"
+URL:https://www.natuurpunt.be/agenda/wandeling-natuur-in-de-stad-in-het-no
+ ordelijk-deel-van-leuven-27204?date=14/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werkdagen Vlierbeek
+DTSTART;TZID=Europe/Brussels:20260614T100000
+DTEND;TZID=Europe/Brussels:20260614T120000
+DTSTAMP:20260328T112533Z
+UID:c61051f11e159ddc1b312b82b90f08d7@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/werkdagen-vlierbeek-28511?date=14/06/
+ 2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Libellen dagexcursie in het Zoniënwoud (2de zondag in Zoniën)
+DTSTART;TZID=Europe/Brussels:20260614T100000
+DTEND;TZID=Europe/Brussels:20260614T130000
+DTSTAMP:20260328T112533Z
+UID:471b3011c0a3d7206f6dea88b492f715@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Hoeilaart
+LOCATION:Hoeilaart
+URL:https://www.natuurpunt.be/agenda/libellen-dagexcursie-in-het-zonienwou
+ d-2de-zondag-in-zonien-27441?date=14/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Culinaire kruidenwandeling in Werchter
+DTSTART;TZID=Europe/Brussels:20260614T140000
+DTEND;TZID=Europe/Brussels:20260614T170000
+DTSTAMP:20260328T112533Z
+UID:8b78b6f657b0256730f9bda4f51627e2@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Rotselaar
+LOCATION:Rotselaar
+URL:https://www.natuurpunt.be/agenda/culinaire-kruidenwandeling-in-werchte
+ r-26245?date=14/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fietstocht langs de Haachtse natuurgebieden
+DTSTART;TZID=Europe/Brussels:20260614T140000
+DTEND;TZID=Europe/Brussels:20260614T180000
+DTSTAMP:20260328T112533Z
+UID:dcf4a63f092263e3173a2f5f9a7eb55a@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/fietstocht-langs-de-haachtse-natuurge
+ bieden-28042?date=14/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zegbroek wandeling
+DTSTART;TZID=Europe/Brussels:20260614T140000
+DTEND;TZID=Europe/Brussels:20260614T170000
+DTSTAMP:20260328T112533Z
+UID:b6bc6a9a72de5e06a18e669b052f269a@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Tremelo
+LOCATION:Tremelo
+URL:https://www.natuurpunt.be/agenda/zegbroek-wandeling-26762?date=14/06/2
+ 026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eetbare plantenwandeling
+DTSTART;TZID=Europe/Brussels:20260614T140000
+DTEND;TZID=Europe/Brussels:20260614T170000
+DTSTAMP:20260328T112533Z
+UID:5d689c96639b43b9090bbb56ba034e27@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Li
+LOCATION:Li
+URL:https://www.natuurpunt.be/agenda/eetbare-plantenwandeling-28257?date=1
+ 4/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geleide wandeling in het Bos van Aa - Zomereditie
+DTSTART;TZID=Europe/Brussels:20260614T140000
+DTEND;TZID=Europe/Brussels:20260614T170000
+DTSTAMP:20260328T112533Z
+UID:9c1a43e6a8c7deff991e5c3a971d75ab@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Zemst
+LOCATION:Zemst
+URL:https://www.natuurpunt.be/agenda/geleide-wandeling-in-het-bos-van-aa-z
+ omereditie-26600?date=14/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bosbaden in het Dunbergbroek
+DTSTART;TZID=Europe/Brussels:20260616T190000
+DTEND;TZID=Europe/Brussels:20260616T210000
+DTSTAMP:20260328T112533Z
+UID:6c2181a50a5cb69016edf0bae94e0868@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/bosbaden-in-het-dunbergbroek-27338?da
+ te=16/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DIJLE 99
+DTSTART;TZID=Europe/Brussels:20260619T190000
+DTEND;TZID=Europe/Brussels:20260619T220000
+DTSTAMP:20260328T112533Z
+UID:f6a0fd84025f1026d243b52d9ace2380@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Tervure
+LOCATION:Tervure
+URL:https://www.natuurpunt.be/agenda/dijle-99-27224?date=19/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vliegend Hert avondwandeling
+DTSTART;TZID=Europe/Brussels:20260619T210000
+DTEND;TZID=Europe/Brussels:20260619T235900
+DTSTAMP:20260328T112533Z
+UID:ba89edf593e15b9037807d8cd347f585@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Beersel
+LOCATION:Beersel
+URL:https://www.natuurpunt.be/agenda/vliegend-hert-avondwandeling-26192?da
+ te=19/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:zomerwerkdag weterbeek
+DTSTART;TZID=Europe/Brussels:20260620T090000
+DTEND;TZID=Europe/Brussels:20260620T160000
+DTSTAMP:20260328T112533Z
+UID:9b04e31a00f3cf52f4cba44560e1d11d@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/zomerwerkdag-weterbeek-26178?date=20/
+ 06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerwerken Wijngaardberg
+DTSTART;TZID=Europe/Brussels:20260620T090000
+DTEND;TZID=Europe/Brussels:20260620T160000
+DTSTAMP:20260328T112533Z
+UID:4b98f416a05cb915b613a941fe9acebd@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerwerken-wijngaardberg-26025?date
+ =20/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerwerken Dalemhof
+DTSTART;TZID=Europe/Brussels:20260620T090000
+DTEND;TZID=Europe/Brussels:20260620T120000
+DTSTAMP:20260328T112533Z
+UID:7a656f12d8740ff2d9d1a7102d3de8b6@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerwerken-dalemhof-16007?date=20/0
+ 6/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Klusdag op de hoeve
+DTSTART;TZID=Europe/Brussels:20260620T093000
+DTEND;TZID=Europe/Brussels:20260620T123000
+DTSTAMP:20260328T112533Z
+UID:de148cdb17bbb348efa73c1f70ba5c44@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/klusdag-op-de-hoeve-26980?date=20/06/
+ 2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheer: Hulsbroekbos - Roosdaal
+DTSTART;TZID=Europe/Brussels:20260620T093000
+DTEND;TZID=Europe/Brussels:20260620T120000
+DTSTAMP:20260328T112533Z
+UID:df053f8a8a51752785692da10025952a@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheer-hulsbroekbos-roosdaal-28220?da
+ te=20/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werkdag Goorbroek
+DTSTART;TZID=Europe/Brussels:20260620T093000
+DTEND;TZID=Europe/Brussels:20260620T130000
+DTSTAMP:20260328T112533Z
+UID:2d2d07dc07141d93441d4f1a57a5e37f@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/werkdag-goorbroek-28640?date=20/06/20
+ 26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vuurvliegjeswandeling
+DTSTART;TZID=Europe/Brussels:20260620T210000
+DTEND;TZID=Europe/Brussels:20260620T233000
+DTSTAMP:20260328T112533Z
+UID:17b06d7a871958b541ce26a3bf066520@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Hoeilaart
+LOCATION:Hoeilaart
+URL:https://www.natuurpunt.be/agenda/vuurvliegjeswandeling-26200?date=20/0
+ 6/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nachtvlinders
+DTSTART;TZID=Europe/Brussels:20260621T100000
+DTEND;TZID=Europe/Brussels:20260621T130000
+DTSTAMP:20260328T112533Z
+UID:256ca2f5fecba8aed425c2c3675afcb3@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/nachtvlinders-28221?date=21/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zonnewendewaneling (Silsombos-Torfbroek-Silsombos)
+DTSTART;TZID=Europe/Brussels:20260621T103000
+DTEND;TZID=Europe/Brussels:20260621T133000
+DTSTAMP:20260328T112533Z
+UID:79e5c2f6998a06b15f70827e8b73be78@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Korte
+LOCATION:Korte
+URL:https://www.natuurpunt.be/agenda/zonnewendewaneling-silsombos-torfbroe
+ k-silsombos-28624?date=21/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Een zomerse boswandeling in het Hellebos
+DTSTART;TZID=Europe/Brussels:20260621T103000
+DTEND;TZID=Europe/Brussels:20260621T123000
+DTSTAMP:20260328T112533Z
+UID:4421c7536692b4bc65e9998bb0371ba0@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Kampe
+LOCATION:Kampe
+URL:https://www.natuurpunt.be/agenda/een-zomerse-boswandeling-in-het-helle
+ bos-28890?date=21/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Genieten van de schoonheid van een waardevol oud bos: het Rotbos
+DTSTART;TZID=Europe/Brussels:20260621T103000
+DTEND;TZID=Europe/Brussels:20260621T123000
+DTSTAMP:20260328T112533Z
+UID:46a2e2aacf5ba9404d75fa2acbd2e3f1@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Kampe
+LOCATION:Kampe
+URL:https://www.natuurpunt.be/agenda/genieten-van-de-schoonheid-van-een-wa
+ ardevol-oud-bos-het-rotbos-28892?date=21/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mooie zomerwandeling in het Weisetterbos-Nico De Boevéreservaat-d
+ omein Vogelzang
+DTSTART;TZID=Europe/Brussels:20260621T103000
+DTEND;TZID=Europe/Brussels:20260621T123000
+DTSTAMP:20260328T112533Z
+UID:f7e1c6488bca3a10f696983473afa9fc@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Kampe
+LOCATION:Kampe
+URL:https://www.natuurpunt.be/agenda/mooie-zomerwandeling-in-het-weisetter
+ bos-nico-de-boevereservaat-domein-vogelzang-28873?date=21/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Het Steentjesbos: van productiebos naar inheems bos: een onvoltooi
+ d verhaal van vele jaren
+DTSTART;TZID=Europe/Brussels:20260621T103000
+DTEND;TZID=Europe/Brussels:20260621T123000
+DTSTAMP:20260328T112533Z
+UID:37c679d07f87ba64ecf778ba54138fdb@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Boortmeerbeek
+LOCATION:Boortmeerbeek
+URL:https://www.natuurpunt.be/agenda/het-steentjesbos-van-productiebos-naa
+ r-inheems-bos-een-onvoltooid-verhaal-van-vele-jaren-28893?date=21/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feest 50j natuurbeheer in het Torfbroek
+DTSTART;TZID=Europe/Brussels:20260621T123000
+DTEND;TZID=Europe/Brussels:20260621T170000
+DTSTAMP:20260328T112533Z
+UID:342161b701074c1cd4fad6181e1fd5d1@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Kampe
+LOCATION:Kampe
+URL:https://www.natuurpunt.be/agenda/feest-50j-natuurbeheer-in-het-torfbro
+ ek-28826?date=21/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gluren bij de buren - Zomerwandeling Paddenbroek en Kesterheide
+DTSTART;TZID=Europe/Brussels:20260621T140000
+DTEND;TZID=Europe/Brussels:20260621T170000
+DTSTAMP:20260328T112533Z
+UID:d875eacd32962e729a0ed77bf94fd74b@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Pajottegem
+LOCATION:Pajottegem
+URL:https://www.natuurpunt.be/agenda/gluren-bij-de-buren-zomerwandeling-pa
+ ddenbroek-en-kesterheide-26780?date=21/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Culinaire planten- en bomenwandeling in Wijgmaalbroek
+DTSTART;TZID=Europe/Brussels:20260621T140000
+DTEND;TZID=Europe/Brussels:20260621T170000
+DTSTAMP:20260328T112533Z
+UID:cfaf14c592ef2ec16f664a54bebe4c0f@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Leuve
+LOCATION:Leuve
+URL:https://www.natuurpunt.be/agenda/culinaire-planten-en-bomenwandeling-i
+ n-wijgmaalbroek-26808?date=21/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Landschapswandeling rond het Nekkerbos vanuit de 's Gravenmolenwei
+ de
+DTSTART;TZID=Europe/Brussels:20260621T140000
+DTEND;TZID=Europe/Brussels:20260621T160000
+DTSTAMP:20260328T112533Z
+UID:ead80abfa72aa309d6c40b240865bd21@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Grimberge
+LOCATION:Grimberge
+URL:https://www.natuurpunt.be/agenda/landschapswandeling-rond-het-nekkerbo
+ s-vanuit-de-s-gravenmolenweide-26840?date=21/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vlinderwandeling in onze Natuurgebieden
+DTSTART;TZID=Europe/Brussels:20260621T140000
+DTEND;TZID=Europe/Brussels:20260621T160000
+DTSTAMP:20260328T112533Z
+UID:6b9471a27931c7bd596491b7576b6f92@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Boortmeerbeek
+LOCATION:Boortmeerbeek
+URL:https://www.natuurpunt.be/agenda/vlinderwandeling-in-onze-natuurgebied
+ en-26432?date=21/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lichenen: een wonderlijke miniatuurwereld
+DTSTART;TZID=Europe/Brussels:20260621T140000
+DTEND;TZID=Europe/Brussels:20260621T170000
+DTSTAMP:20260328T112533Z
+UID:fd49242cd67b6658bda05cb1b6c7f571@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Halle
+LOCATION:Halle
+URL:https://www.natuurpunt.be/agenda/lichenen-een-wonderlijke-miniatuurwer
+ eld-28941?date=21/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Klusdag op de hoeve
+DTSTART;TZID=Europe/Brussels:20260623T093000
+DTEND;TZID=Europe/Brussels:20260623T123000
+DTSTAMP:20260328T112533Z
+UID:86b9432fdad1561c2684e091c9eaf507@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/klusdag-op-de-hoeve-26980?date=23/06/
+ 2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Floraexcursie groeve Kerkom
+DTSTART;TZID=Europe/Brussels:20260624T140000
+DTEND;TZID=Europe/Brussels:20260624T170000
+DTSTAMP:20260328T112533Z
+UID:074936aa281a2a08edb5694427ff4add@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/floraexcursie-groeve-kerkom-27816?dat
+ e=24/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NGZ// Donawa. Het glooiende Duisburgs plateau.
+DTSTART;TZID=Europe/Brussels:20260625T140000
+DTEND;TZID=Europe/Brussels:20260625T170000
+DTSTAMP:20260328T112533Z
+UID:5498b3707d62afeb3db27a1663e58f1d@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Tervure
+LOCATION:Tervure
+URL:https://www.natuurpunt.be/agenda/ngz-donawa-het-glooiende-duisburgs-pl
+ ateau-27888?date=25/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natuuramnesie\, het vergeten landschap van Emile Claus
+DTSTART;TZID=Europe/Brussels:20260626T190000
+DTEND;TZID=Europe/Brussels:20260626T220000
+DTSTAMP:20260328T112533Z
+UID:fde03ef2c00ac55fe2a7452226e9a7ec@natuurpunt.be
+DESCRIPTION:Natuurpunt event in &
+LOCATION:&
+URL:https://www.natuurpunt.be/agenda/natuuramnesie-het-vergeten-landschap-
+ van-emile-claus-28681?date=26/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flirten in't groen
+DTSTART;TZID=Europe/Brussels:20260626T193000
+DTEND;TZID=Europe/Brussels:20260626T220000
+DTSTAMP:20260328T112533Z
+UID:db3730e3fdf0da46dc18080a6de5cd06@natuurpunt.be
+DESCRIPTION:Natuurpunt event in &
+LOCATION:&
+URL:https://www.natuurpunt.be/agenda/flirten-int-groen-25826?date=26/06/20
+ 26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avondlijke beverfietstocht in Leuven
+DTSTART;TZID=Europe/Brussels:20260626T193000
+DTEND;TZID=Europe/Brussels:20260626T223000
+DTSTAMP:20260328T112533Z
+UID:c5c0dd1451a038528dc581a0a14becf4@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/avondlijke-beverfietstocht-in-leuven-
+ 28230?date=26/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerwerkdag Hagelandse Vallei
+DTSTART;TZID=Europe/Brussels:20260627T080000
+DTEND;TZID=Europe/Brussels:20260627T160000
+DTSTAMP:20260328T112533Z
+UID:2d95276f09eb8d32d8c4284f00ff4869@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerwerkdag-hagelandse-vallei-26224
+ ?date=27/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerwerkdag in de Molenbeekvallei
+DTSTART;TZID=Europe/Brussels:20260627T090000
+DTEND;TZID=Europe/Brussels:20260627T170000
+DTSTAMP:20260328T112533Z
+UID:9b24c0c2d542d50d69de31b744036868@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerwerkdag-in-de-molenbeekvallei-2
+ 7863?date=27/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zomerwerkdag Koebos
+DTSTART;TZID=Europe/Brussels:20260627T090000
+DTEND;TZID=Europe/Brussels:20260627T160000
+DTSTAMP:20260328T112533Z
+UID:7a40fa8056616d8fd5d327f87536b216@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/zomerwerkdag-koebos-26179?date=27/06/
+ 2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zomerwerkdag Koebos
+DTSTART;TZID=Europe/Brussels:20260627T090000
+DTEND;TZID=Europe/Brussels:20260627T160000
+DTSTAMP:20260328T112533Z
+UID:7a40fa8056616d8fd5d327f87536b216@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/zomerwerkdag-koebos-28641?date=27/06/
+ 2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerwerken Natuurpunt Londerzeel
+DTSTART;TZID=Europe/Brussels:20260627T090000
+DTEND;TZID=Europe/Brussels:20260627T120000
+DTSTAMP:20260328T112533Z
+UID:6a91e524d37dc220ad7b2c49a91e27eb@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerwerken-natuurpunt-londerzeel-24
+ 058?date=27/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerwerkdag 12 Apostelenbos - 27 juni 2026
+DTSTART;TZID=Europe/Brussels:20260627T093000
+DTEND;TZID=Europe/Brussels:20260627T120000
+DTSTAMP:20260328T112533Z
+UID:1ca6339bcf70ef159d3d1177899755a7@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerwerkdag-12-apostelenbos-27-juni
+ -2026-28765?date=27/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Londerzeel zoemt - meer bijen in je tuin
+DTSTART;TZID=Europe/Brussels:20260627T140000
+DTEND;TZID=Europe/Brussels:20260627T170000
+DTSTAMP:20260328T112533Z
+UID:91333b939dd07d817693a4de0df101c8@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/londerzeel-zoemt-meer-bijen-in-je-tui
+ n-28433?date=27/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nachtvlinderinventarisatie + safari
+DTSTART;TZID=Europe/Brussels:20260628T063000
+DTEND;TZID=Europe/Brussels:20260628T093000
+DTSTAMP:20260328T112533Z
+UID:d56b32d9983a5c22c109182742b1593b@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/nachtvlinderinventarisatie-safari-277
+ 06?date=28/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zomerwandeling in Wijgmaalbroek
+DTSTART;TZID=Europe/Brussels:20260628T100000
+DTEND;TZID=Europe/Brussels:20260628T130000
+DTSTAMP:20260328T112533Z
+UID:0d569e20adef232e6aaa4e83f04b33e0@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Leuve
+LOCATION:Leuve
+URL:https://www.natuurpunt.be/agenda/zomerwandeling-in-wijgmaalbroek-27202
+ ?date=28/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insectenspeurtocht in de Wolfsputten
+DTSTART;TZID=Europe/Brussels:20260628T140000
+DTEND;TZID=Europe/Brussels:20260628T160000
+DTSTAMP:20260328T112533Z
+UID:7777bcb5fe720bb5d25c7f5bb85f9ad9@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/insectenspeurtocht-in-de-wolfsputten-
+ 26944?date=28/06/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natuurpunt Tielt-Winge: werk- en speurdag: Tussen 2 Motten
+DTSTART;TZID=Europe/Brussels:20260704T090000
+DTEND;TZID=Europe/Brussels:20260704T120000
+DTSTAMP:20260328T112533Z
+UID:b6826d579bfe32ffe16eec359163cd40@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/natuurpunt-tielt-winge-werk-en-speurd
+ ag-tussen-2-motten-27347?date=04/07/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheervoormiddag Kesterheide
+DTSTART;TZID=Europe/Brussels:20260704T090000
+DTEND;TZID=Europe/Brussels:20260704T120000
+DTSTAMP:20260328T112533Z
+UID:f221e9973426cf5be863b9559fc706c2@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheervoormiddag-kesterheide-26782?da
+ te=04/07/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zomerwerkdag Aardgat
+DTSTART;TZID=Europe/Brussels:20260704T090000
+DTEND;TZID=Europe/Brussels:20260704T160000
+DTSTAMP:20260328T112533Z
+UID:971ecf61dac3e6bb56c48d7945c4f8cc@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/zomerwerkdag-aardgat-26198?date=04/07
+ /2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheer: Grooten Bosch - Roosdaal
+DTSTART;TZID=Europe/Brussels:20260704T093000
+DTEND;TZID=Europe/Brussels:20260704T120000
+DTSTAMP:20260328T112533Z
+UID:4144fc9579a571cc093520dac4252aba@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheer-grooten-bosch-roosdaal-28222?d
+ ate=04/07/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zomerwerkdag\, beheerwerk in de vallei van Dassenaarde
+DTSTART;TZID=Europe/Brussels:20260704T100000
+DTEND;TZID=Europe/Brussels:20260704T130000
+DTSTAMP:20260328T112533Z
+UID:fecf5fbc09c6d3bfbe612e772b42d8aa@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/zomerwerkdag-beheerwerk-in-de-vallei-
+ van-dassenaarde-26609?date=04/07/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zomerwandeling De Sloep
+DTSTART;TZID=Europe/Brussels:20260705T100000
+DTEND;TZID=Europe/Brussels:20260705T123000
+DTSTAMP:20260328T112533Z
+UID:c8009e27c56d0f25267b3b40fbcfd359@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Lubbeek
+LOCATION:Lubbeek
+URL:https://www.natuurpunt.be/agenda/zomerwandeling-de-sloep-28642?date=05
+ /07/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silsomrangerkampje 2026
+DTSTART;TZID=Europe/Brussels:20260706T100000
+DTEND;TZID=Europe/Brussels:20260706T130000
+DTSTAMP:20260328T112533Z
+UID:606058e8126279ea75672f99db7b5fdf@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/silsomrangerkampje-2026-27220?date=06
+ /07/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silsomrangerkampje 2026
+DTSTART;TZID=Europe/Brussels:20260707T100000
+DTEND;TZID=Europe/Brussels:20260707T130000
+DTSTAMP:20260328T112533Z
+UID:5333b583c44dadf75602e13465c8c973@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/silsomrangerkampje-2026-27220?date=07
+ /07/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silsomrangerkampje 2026
+DTSTART;TZID=Europe/Brussels:20260708T100000
+DTEND;TZID=Europe/Brussels:20260708T130000
+DTSTAMP:20260328T112533Z
+UID:7f51a838d9d544f3a955d7b470bbee4b@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/silsomrangerkampje-2026-27220?date=08
+ /07/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silsomrangerkampje 2026
+DTSTART;TZID=Europe/Brussels:20260709T100000
+DTEND;TZID=Europe/Brussels:20260709T130000
+DTSTAMP:20260328T112533Z
+UID:7b087e37ad3670a4b89b29f0008ec775@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/silsomrangerkampje-2026-27220?date=09
+ /07/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silsomrangerkampje 2026
+DTSTART;TZID=Europe/Brussels:20260710T100000
+DTEND;TZID=Europe/Brussels:20260710T130000
+DTSTAMP:20260328T112533Z
+UID:417db8bb90ebf37935a636815145a657@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/silsomrangerkampje-2026-27220?date=10
+ /07/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zomerwerkdag Rozendaalbeekvallei
+DTSTART;TZID=Europe/Brussels:20260711T090000
+DTEND;TZID=Europe/Brussels:20260711T160000
+DTSTAMP:20260328T112533Z
+UID:d5222f3fd414ee0d74b9f84aaba3c876@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/zomerwerkdag-rozendaalbeekvallei-2619
+ 9?date=11/07/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerdag op de Koeheide
+DTSTART;TZID=Europe/Brussels:20260711T090000
+DTEND;TZID=Europe/Brussels:20260711T120000
+DTSTAMP:20260328T112533Z
+UID:d41428c40f7754beb1eb1e4d6e0360ac@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerdag-op-de-koeheide-26147?date=1
+ 1/07/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fauna en Flora inventarisatie op Steps in Walshoutem
+DTSTART;TZID=Europe/Brussels:20260711T100000
+DTEND;TZID=Europe/Brussels:20260711T120000
+DTSTAMP:20260328T112533Z
+UID:d20fa121a7fd0a1354ac86d2bd1ca805@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/fauna-en-flora-inventarisatie-op-step
+ s-in-walshoutem-27677?date=11/07/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bijenzoektocht in Leuven centrum
+DTSTART;TZID=Europe/Brussels:20260711T100000
+DTEND;TZID=Europe/Brussels:20260711T130000
+DTSTAMP:20260328T112533Z
+UID:498999a1a343d7463ecc7ba1d91dbf9a@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/bijenzoektocht-in-leuven-centrum-2707
+ 0?date=11/07/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werkdag Loobergen
+DTSTART;TZID=Europe/Brussels:20260712T093000
+DTEND;TZID=Europe/Brussels:20260712T120000
+DTSTAMP:20260328T112533Z
+UID:d950cc6aef03b624b33176dee085515c@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/werkdag-loobergen-27776?date=12/07/20
+ 26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verhalenwandeling rond de Plas van Rotselaar
+DTSTART;TZID=Europe/Brussels:20260712T140000
+DTEND;TZID=Europe/Brussels:20260712T170000
+DTSTAMP:20260328T112533Z
+UID:6dcc978975540dc4af738e9078e9245a@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Rotselaar
+LOCATION:Rotselaar
+URL:https://www.natuurpunt.be/agenda/verhalenwandeling-rond-de-plas-van-ro
+ tselaar-26246?date=12/07/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinderactiviteit Natuurverkenning voor Kinderen en (groot-)ouders 
+ .
+DTSTART;TZID=Europe/Brussels:20260712T140000
+DTEND;TZID=Europe/Brussels:20260712T170000
+DTSTAMP:20260328T112533Z
+UID:6ad0ab88a9b612e4564bb739c77bd014@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Bierbeek
+LOCATION:Bierbeek
+URL:https://www.natuurpunt.be/agenda/kinderactiviteit-natuurverkenning-voo
+ r-kinderen-en-groot-ouders-26792?date=12/07/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Startdag in Bever - Proef en ruik de natuur!
+DTSTART;TZID=Europe/Brussels:20260712T140000
+DTEND;TZID=Europe/Brussels:20260712T170000
+DTSTAMP:20260328T112533Z
+UID:159c9f5eeb2c911ee1e0d606df60be16@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Bever
+LOCATION:Bever
+URL:https://www.natuurpunt.be/agenda/startdag-in-bever-proef-en-ruik-de-na
+ tuur-28806?date=12/07/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avondwandeling Zegbroek
+DTSTART;TZID=Europe/Brussels:20260716T190000
+DTEND;TZID=Europe/Brussels:20260716T213000
+DTSTAMP:20260328T112533Z
+UID:d3a2efa6c8f07c152a36d52a09f69261@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Tremelo
+LOCATION:Tremelo
+URL:https://www.natuurpunt.be/agenda/avondwandeling-zegbroek-26764?date=16
+ /07/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zomerwerkdag Snoekegracht
+DTSTART;TZID=Europe/Brussels:20260718T090000
+DTEND;TZID=Europe/Brussels:20260718T160000
+DTSTAMP:20260328T112533Z
+UID:9b77828cf32ac737fe1f697ed3e849da@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/zomerwerkdag-snoekegracht-26202?date=
+ 18/07/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerwerken Dalemhof
+DTSTART;TZID=Europe/Brussels:20260718T090000
+DTEND;TZID=Europe/Brussels:20260718T120000
+DTSTAMP:20260328T112533Z
+UID:9542bff10347f219c1f1b66ad5636678@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerwerken-dalemhof-16007?date=18/0
+ 7/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zomerwandeling in natuurgebied Overlo (Dalemhof)
+DTSTART;TZID=Europe/Brussels:20260719T100000
+DTEND;TZID=Europe/Brussels:20260719T130000
+DTSTAMP:20260328T112533Z
+UID:0789155e1f8e3ebb5b834cf9d6ba5428@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Leuve
+LOCATION:Leuve
+URL:https://www.natuurpunt.be/agenda/zomerwandeling-in-natuurgebied-overlo
+ -dalemhof-26890?date=19/07/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VERZET NAAR 12 JULI - Startdag in Bever - Proef en ruik de natuur!
+DTSTART;TZID=Europe/Brussels:20260719T140000
+DTEND;TZID=Europe/Brussels:20260719T170000
+DTSTAMP:20260328T112533Z
+UID:754eedf6d9350719d639e8eb33d66a4f@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Bever
+LOCATION:Bever
+URL:https://www.natuurpunt.be/agenda/verzet-naar-12-juli-startdag-in-bever
+ -proef-en-ruik-de-natuur-26784?date=19/07/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerwerkdag Hagelandse Vallei
+DTSTART;TZID=Europe/Brussels:20260725T080000
+DTEND;TZID=Europe/Brussels:20260725T160000
+DTSTAMP:20260328T112533Z
+UID:e1785a2f7391b9e8dec948cce2220ad2@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerwerkdag-hagelandse-vallei-26224
+ ?date=25/07/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerwerken Natuurpunt Londerzeel
+DTSTART;TZID=Europe/Brussels:20260725T090000
+DTEND;TZID=Europe/Brussels:20260725T120000
+DTSTAMP:20260328T112533Z
+UID:36db7ba5f2b94f82ac9ff31eed2042fb@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerwerken-natuurpunt-londerzeel-24
+ 058?date=25/07/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:zomerwerkdag hooilandbeheer Molenstraat Mene-jordaan
+DTSTART;TZID=Europe/Brussels:20260725T133000
+DTEND;TZID=Europe/Brussels:20260725T170000
+DTSTAMP:20260328T112533Z
+UID:0a3944fc6c7159e356b538ea7cc9eacd@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/zomerwerkdag-hooilandbeheer-molenstra
+ at-mene-jordaan-26181?date=25/07/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vleermuizenspeurtocht in de Wolfsputten
+DTSTART;TZID=Europe/Brussels:20260725T210000
+DTEND;TZID=Europe/Brussels:20260726T000000
+DTSTAMP:20260328T112533Z
+UID:1a00d4912dccc51b374b67d215221496@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Dilbeek
+LOCATION:Dilbeek
+URL:https://www.natuurpunt.be/agenda/vleermuizenspeurtocht-in-de-wolfsputt
+ en-26946?date=25/07/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natuurpunt Tielt-Winge: werk- en speurdag: Tussen 2 Motten
+DTSTART;TZID=Europe/Brussels:20260801T090000
+DTEND;TZID=Europe/Brussels:20260801T120000
+DTSTAMP:20260328T112533Z
+UID:534b27342de68abeddc135d60e425ce5@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/natuurpunt-tielt-winge-werk-en-speurd
+ ag-tussen-2-motten-27347?date=01/08/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:zomerwerkdag zwartebos mollendaal
+DTSTART;TZID=Europe/Brussels:20260801T090000
+DTEND;TZID=Europe/Brussels:20260801T160000
+DTSTAMP:20260328T112533Z
+UID:f2790d97a1b5eb56be144954eedeb3f9@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/zomerwerkdag-zwartebos-mollendaal-261
+ 75?date=01/08/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insektenzomer: zien we andere insekten in de natuur dan in de stad
+ ?
+DTSTART;TZID=Europe/Brussels:20260802T140000
+DTEND;TZID=Europe/Brussels:20260802T170000
+DTSTAMP:20260328T112533Z
+UID:d9e5ef884cf4c8106d611d34d1cd894d@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Diest
+LOCATION:Diest
+URL:https://www.natuurpunt.be/agenda/insektenzomer-zien-we-andere-insekten
+ -in-de-natuur-dan-in-de-stad-26610?date=02/08/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grote Pimpernel-telling
+DTSTART;TZID=Europe/Brussels:20260802T140000
+DTEND;TZID=Europe/Brussels:20260802T170000
+DTSTAMP:20260328T112533Z
+UID:f37b5ed011a353ea08b64bb220d86621@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/grote-pimpernel-telling-26433?date=02
+ /08/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerwerkdag
+DTSTART;TZID=Europe/Brussels:20260805T133000
+DTEND;TZID=Europe/Brussels:20260805T153000
+DTSTAMP:20260328T112533Z
+UID:ce039d7f626c71f754233c72d30cf32b@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerwerkdag-26835?date=05/08/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerdag op de Koeheide
+DTSTART;TZID=Europe/Brussels:20260808T090000
+DTEND;TZID=Europe/Brussels:20260808T120000
+DTSTAMP:20260328T112533Z
+UID:0eb6ea080f39ae35c03fe9c76d071e2e@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerdag-op-de-koeheide-26147?date=0
+ 8/08/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run for Nature
+DTSTART;TZID=Europe/Brussels:20260809T090000
+DTEND;TZID=Europe/Brussels:20260809T120000
+DTSTAMP:20260328T112533Z
+UID:5d30f95bc741cf28fcb9e724c47058ab@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/run-for-nature-28037?date=09/08/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werkdag Loobergen
+DTSTART;TZID=Europe/Brussels:20260809T093000
+DTEND;TZID=Europe/Brussels:20260809T120000
+DTSTAMP:20260328T112533Z
+UID:46cd8e6c081c4a495b47a982cf831219@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/werkdag-loobergen-27776?date=09/08/20
+ 26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insektenzomer: zien we andere insekten in de natuur dan in de stad
+ ?
+DTSTART;TZID=Europe/Brussels:20260809T140000
+DTEND;TZID=Europe/Brussels:20260809T170000
+DTSTAMP:20260328T112533Z
+UID:86fcd678bafcb71149c1bb13794c7fc9@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Diest
+LOCATION:Diest
+URL:https://www.natuurpunt.be/agenda/insektenzomer-zien-we-andere-insekten
+ -in-de-natuur-dan-in-de-stad-26610?date=09/08/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insecten in het nieuwe Oyenbrugpark
+DTSTART;TZID=Europe/Brussels:20260809T140000
+DTEND;TZID=Europe/Brussels:20260809T160000
+DTSTAMP:20260328T112533Z
+UID:e4f179fa6b14d122d5430d62045d032f@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/insecten-in-het-nieuwe-oyenbrugpark-2
+ 6838?date=09/08/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onze Klassieker: de Pikhakendonkwandeling
+DTSTART;TZID=Europe/Brussels:20260809T140000
+DTEND;TZID=Europe/Brussels:20260809T170000
+DTSTAMP:20260328T112533Z
+UID:de56177fbfa78d01af3d7ddf4f6710e0@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Boortmeerbeek
+LOCATION:Boortmeerbeek
+URL:https://www.natuurpunt.be/agenda/onze-klassieker-de-pikhakendonkwandel
+ ing-26493?date=09/08/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bushcraftkampje op de hoeve van 17 tot 21 augustus
+DTSTART;TZID=Europe/Brussels:20260817T093000
+DTEND;TZID=Europe/Brussels:20260817T123000
+DTSTAMP:20260328T112533Z
+UID:7296895a6e62e96f44321492b1b0f967@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/bushcraftkampje-op-de-hoeve-van-17-to
+ t-21-augustus-27528?date=17/08/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zot van Natuur.kamp
+DTSTART;TZID=Europe/Brussels:20260819T100000
+DTEND;TZID=Europe/Brussels:20260819T130000
+DTSTAMP:20260328T112533Z
+UID:28a0524429580df6fdd53e667318fdf1@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/zot-van-natuurkamp-28809?date=19/08/2
+ 026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zot van Natuur.kamp
+DTSTART;TZID=Europe/Brussels:20260820T100000
+DTEND;TZID=Europe/Brussels:20260820T130000
+DTSTAMP:20260328T112533Z
+UID:91a2d36a6aa9dbf77ba51097e1f13ebc@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/zot-van-natuurkamp-28809?date=20/08/2
+ 026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zot van Natuur.kamp
+DTSTART;TZID=Europe/Brussels:20260821T100000
+DTEND;TZID=Europe/Brussels:20260821T130000
+DTSTAMP:20260328T112533Z
+UID:72b8dbd4b15eeb0f3a1d1db266bc0ba3@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/zot-van-natuurkamp-28809?date=21/08/2
+ 026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vleermuizenwandeling
+DTSTART;TZID=Europe/Brussels:20260821T200000
+DTEND;TZID=Europe/Brussels:20260821T223000
+DTSTAMP:20260328T112533Z
+UID:a02883b6bbec83cb46ca17c889fd19f2@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Halle
+LOCATION:Halle
+URL:https://www.natuurpunt.be/agenda/vleermuizenwandeling-28942?date=21/08
+ /2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerwerken Dalemhof
+DTSTART;TZID=Europe/Brussels:20260822T090000
+DTEND;TZID=Europe/Brussels:20260822T120000
+DTSTAMP:20260328T112533Z
+UID:a46d2b7cebc02b960607f1b3913d86af@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerwerken-dalemhof-16007?date=22/0
+ 8/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zot van Natuur.kamp
+DTSTART;TZID=Europe/Brussels:20260822T100000
+DTEND;TZID=Europe/Brussels:20260822T130000
+DTSTAMP:20260328T112533Z
+UID:fdd51c1bff0c7a58cdbdb69585a8354a@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/zot-van-natuurkamp-28809?date=22/08/2
+ 026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natuurpunt Beersel - Natuurstage Bomen en bosbewoners - voor kinde
+ ren van 9 tot 15 jaar
+DTSTART;TZID=Europe/Brussels:20260824T090000
+DTEND;TZID=Europe/Brussels:20260824T160000
+DTSTAMP:20260328T112533Z
+UID:c1ea4a8237d0782dd719593be6650b16@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/natuurpunt-beersel-natuurstage-bomen-
+ en-bosbewoners-voor-kinderen-van-9-tot-15-jaar-25345?date=24/08/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Floraexcursie in de Vallei van de drie Beken
+DTSTART;TZID=Europe/Brussels:20260826T140000
+DTEND;TZID=Europe/Brussels:20260826T170000
+DTSTAMP:20260328T112533Z
+UID:5c0cd744edb4a4da80ba451ec4c2aa78@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/floraexcursie-in-de-vallei-van-de-dri
+ e-beken-27819?date=26/08/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nacht van de Vleermuis 2026: Het leven van de vleermuis uitgelegd 
+ en dan op zoek!
+DTSTART;TZID=Europe/Brussels:20260828T193000
+DTEND;TZID=Europe/Brussels:20260828T223000
+DTSTAMP:20260328T112533Z
+UID:abbd30f415fb54ebb88c85bb4a600719@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Diest
+LOCATION:Diest
+URL:https://www.natuurpunt.be/agenda/nacht-van-de-vleermuis-2026-het-leven
+ -van-de-vleermuis-uitgelegd-en-dan-op-zoek-26614?date=28/08/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerwerkdag Hagelandse Vallei
+DTSTART;TZID=Europe/Brussels:20260829T080000
+DTEND;TZID=Europe/Brussels:20260829T160000
+DTSTAMP:20260328T112533Z
+UID:ca987faf1b85e04fd564ec4d76dd741f@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerwerkdag-hagelandse-vallei-26224
+ ?date=29/08/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerwerken Natuurpunt Londerzeel
+DTSTART;TZID=Europe/Brussels:20260829T090000
+DTEND;TZID=Europe/Brussels:20260829T120000
+DTSTAMP:20260328T112533Z
+UID:e7d3203d32508dc3c162f9dba8e18c85@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerwerken-natuurpunt-londerzeel-24
+ 058?date=29/08/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zomerwerkdag Zijpveld
+DTSTART;TZID=Europe/Brussels:20260829T133000
+DTEND;TZID=Europe/Brussels:20260829T170000
+DTSTAMP:20260328T112533Z
+UID:bc9a3a22593cefee748c9bf129714b9d@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/zomerwerkdag-zijpveld-26223?date=29/0
+ 8/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nacht van de vleermuis te Linkebeek
+DTSTART;TZID=Europe/Brussels:20260829T200000
+DTEND;TZID=Europe/Brussels:20260829T230000
+DTSTAMP:20260328T112533Z
+UID:2a90c66d303b6df7f3331aa38aa76d86@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Li
+LOCATION:Li
+URL:https://www.natuurpunt.be/agenda/nacht-van-de-vleermuis-te-linkebeek-2
+ 6211?date=29/08/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tasten in de duisternis – Vleermuizenzoektocht
+DTSTART;TZID=Europe/Brussels:20260829T200000
+DTEND;TZID=Europe/Brussels:20260829T230000
+DTSTAMP:20260328T112533Z
+UID:15449cd3ffedda0409cc536b7e2d7151@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Le
+LOCATION:Le
+URL:https://www.natuurpunt.be/agenda/tasten-in-de-duisternis-vleermuizenzo
+ ektocht-27988?date=29/08/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spinnenwandeling
+DTSTART;TZID=Europe/Brussels:20260830T140000
+DTEND;TZID=Europe/Brussels:20260830T170000
+DTSTAMP:20260328T112533Z
+UID:990955d14dbefb5bbdc75cdc925e5cd9@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Si
+LOCATION:Si
+URL:https://www.natuurpunt.be/agenda/spinnenwandeling-26196?date=30/08/202
+ 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bolloheide en omgeving
+DTSTART;TZID=Europe/Brussels:20260831T140000
+DTEND;TZID=Europe/Brussels:20260831T170000
+DTSTAMP:20260328T112533Z
+UID:19f235ed45d4a1277e9c181f0acec272@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Heist-op-de
+LOCATION:Heist-op-de
+URL:https://www.natuurpunt.be/agenda/bolloheide-en-omgeving-26765?date=31/
+ 08/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natuurpunt Tielt-Winge: werk- en speurdag: Tussen 2 Motten
+DTSTART;TZID=Europe/Brussels:20260905T090000
+DTEND;TZID=Europe/Brussels:20260905T120000
+DTSTAMP:20260328T112533Z
+UID:2fdea38428b5c829dc4696263a924a89@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/natuurpunt-tielt-winge-werk-en-speurd
+ ag-tussen-2-motten-27347?date=05/09/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natuurverkenner in Pikhakendonk
+DTSTART;TZID=Europe/Brussels:20260905T090000
+DTEND;TZID=Europe/Brussels:20260905T120000
+DTSTAMP:20260328T112533Z
+UID:7b6592ab92ed06bb56ef279133ee19f8@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/natuurverkenner-in-pikhakendonk-26459
+ ?date=05/09/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:zomerwerkdag meldertbos
+DTSTART;TZID=Europe/Brussels:20260905T133000
+DTEND;TZID=Europe/Brussels:20260905T170000
+DTSTAMP:20260328T112533Z
+UID:8d78fb14a116edf60bbc0e2df5e049cb@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/zomerwerkdag-meldertbos-26176?date=05
+ /09/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stiltewandeling in het bos
+DTSTART;TZID=Europe/Brussels:20260905T140000
+DTEND;TZID=Europe/Brussels:20260905T170000
+DTSTAMP:20260328T112533Z
+UID:1579d6a12e66a66f20c2c64a73957848@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Halle
+LOCATION:Halle
+URL:https://www.natuurpunt.be/agenda/stiltewandeling-in-het-bos-28943?date
+ =05/09/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fietstocht naar de nieuwe gebieden na ruilverkaveling Willebringen
+DTSTART;TZID=Europe/Brussels:20260906T133000
+DTEND;TZID=Europe/Brussels:20260906T170000
+DTSTAMP:20260328T112533Z
+UID:6281c988f376db2f3f6f0810257ef642@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/fietstocht-naar-de-nieuwe-gebieden-na
+ -ruilverkaveling-willebringen-26793?date=06/09/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vier seizoenen wandelingen: de uitzonderlijke schoonheid van het T
+ orfbroek in het najaar
+DTSTART;TZID=Europe/Brussels:20260906T140000
+DTEND;TZID=Europe/Brussels:20260906T170000
+DTSTAMP:20260328T112533Z
+UID:7ac93cd901f545cc8b41f77c69284214@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Kampe
+LOCATION:Kampe
+URL:https://www.natuurpunt.be/agenda/vier-seizoenen-wandelingen-de-uitzond
+ erlijke-schoonheid-van-het-torfbroek-in-het-najaar-27773?date=06/09/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herfsttijlooswandeling Rotte Gaten
+DTSTART;TZID=Europe/Brussels:20260906T140000
+DTEND;TZID=Europe/Brussels:20260906T170000
+DTSTAMP:20260328T112533Z
+UID:7f7a75b0067f00deb131a5f606139a31@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Korte
+LOCATION:Korte
+URL:https://www.natuurpunt.be/agenda/herfsttijlooswandeling-rotte-gaten-27
+ 137?date=06/09/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wandeling "biodiversiteit en het beheer van Wijgmaalbroek"
+DTSTART;TZID=Europe/Brussels:20260906T140000
+DTEND;TZID=Europe/Brussels:20260906T170000
+DTSTAMP:20260328T112533Z
+UID:e30b77393a193d7f89c7600b614b9309@natuurpunt.be
+DESCRIPTION:Natuurpunt event in "biodiversiteit
+LOCATION:"biodiversiteit
+URL:https://www.natuurpunt.be/agenda/wandeling-biodiversiteit-en-het-behee
+ r-van-wijgmaalbroek-26886?date=06/09/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vierseizoenenwandeling: de uitzonderlijke schoonheid van het Torfb
+ roek in het najaar
+DTSTART;TZID=Europe/Brussels:20260906T140000
+DTEND;TZID=Europe/Brussels:20260906T160000
+DTSTAMP:20260328T112533Z
+UID:00080416c2887349c8700a15de55af18@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Kampe
+LOCATION:Kampe
+URL:https://www.natuurpunt.be/agenda/vierseizoenenwandeling-de-uitzonderli
+ jke-schoonheid-van-het-torfbroek-in-het-najaar-27402?date=06/09/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Het zinderende Zennepad
+DTSTART;TZID=Europe/Brussels:20260906T140000
+DTEND;TZID=Europe/Brussels:20260906T170000
+DTSTAMP:20260328T112533Z
+UID:569af20135e3ce08010402494d4aaed5@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Halle
+LOCATION:Halle
+URL:https://www.natuurpunt.be/agenda/het-zinderende-zennepad-28944?date=06
+ /09/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:De zintuigen van vogels
+DTSTART;TZID=Europe/Brussels:20260910T193000
+DTEND;TZID=Europe/Brussels:20260910T220000
+DTSTAMP:20260328T112533Z
+UID:c3d4d668d3d97536565d16eb27c2e324@natuurpunt.be
+DESCRIPTION:Natuurpunt event in &
+LOCATION:&
+URL:https://www.natuurpunt.be/agenda/de-zintuigen-van-vogels-26359?date=10
+ /09/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:zomerwerkdag rosdel-kaubergbroek
+DTSTART;TZID=Europe/Brussels:20260912T090000
+DTEND;TZID=Europe/Brussels:20260912T160000
+DTSTAMP:20260328T112533Z
+UID:549670a84a9c5834ea6360c9dd4ab402@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/zomerwerkdag-rosdel-kaubergbroek-2617
+ 7?date=12/09/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerdag op de Koeheide
+DTSTART;TZID=Europe/Brussels:20260912T090000
+DTEND;TZID=Europe/Brussels:20260912T120000
+DTSTAMP:20260328T112533Z
+UID:131c987f88f0029c6b1017abba3b8a6f@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerdag-op-de-koeheide-26147?date=1
+ 2/09/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheer: Hulsbroekbos - Roosdaal
+DTSTART;TZID=Europe/Brussels:20260912T093000
+DTEND;TZID=Europe/Brussels:20260912T120000
+DTSTAMP:20260328T112533Z
+UID:8e7a60196cce80867c56e4f5c037878c@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheer-hulsbroekbos-roosdaal-28223?da
+ te=12/09/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beheerwerk\, aan de slag in de natuur
+DTSTART;TZID=Europe/Brussels:20260912T133000
+DTEND;TZID=Europe/Brussels:20260912T163000
+DTSTAMP:20260328T112533Z
+UID:9dff1cd2031857062182bbcfb11bfdd2@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/beheerwerk-aan-de-slag-in-de-natuur-2
+ 6576?date=12/09/2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werkdag Loobergen
+DTSTART;TZID=Europe/Brussels:20260913T093000
+DTEND;TZID=Europe/Brussels:20260913T120000
+DTSTAMP:20260328T112533Z
+UID:55e32cfb5dca30735a417b229380ae89@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Vlaams-Brabant
+LOCATION:Vlaams-Brabant
+URL:https://www.natuurpunt.be/agenda/werkdag-loobergen-27776?date=13/09/20
+ 26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Honderd jaar Heilig Hart-beeld op de Wijngaardberg
+DTSTART;TZID=Europe/Brussels:20260913T140000
+DTEND;TZID=Europe/Brussels:20260913T170000
+DTSTAMP:20260328T112533Z
+UID:92aeec14abf469dab4bcec4cfd502b42@natuurpunt.be
+DESCRIPTION:Natuurpunt event in Rotselaar
+LOCATION:Rotselaar
+URL:https://www.natuurpunt.be/agenda/honderd-jaar-heilig-hart-beeld-op-de-
+ wijngaardberg-27513?date=13/09/2026
+END:VEVENT
+END:VCALENDAR
