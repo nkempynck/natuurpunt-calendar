@@ -1,4 +1,4 @@
-anthropic
+selfhealing-agent @ git+https://github.com/nkempynck/selfhealing-agent.git
 requests
 beautifulsoup4
 icalendar
