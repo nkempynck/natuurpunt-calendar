@@ -59,7 +59,7 @@ This runs the agent and pushes the updated `.ics` to GitHub Pages so calendar su
 Instead of importing the `.ics` manually each time, you can subscribe to it so your calendar updates automatically. After publishing to GitHub Pages, your calendar URL is:
 
 ```
-https://YOURUSERNAME.github.io/natuurpunt-calendar/natuurpunt_vlaams_brabant.ics
+https://nkempynck.github.io/natuurpunt-calendar/natuurpunt_vlaams_brabant.ics
 ```
 
 - **Google Calendar:** Other calendars → + → From URL → paste the URL
