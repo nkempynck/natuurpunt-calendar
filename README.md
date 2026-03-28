@@ -2,6 +2,8 @@
 
 An agentic AI script that automatically scrapes activities from [Natuurpunt Vlaams-Brabant](https://www.natuurpunt.be/agenda?f%5B0%5D=province%3A187) and converts them into a calendar file (`.ics`) you can import into Google Calendar, Apple Calendar, or Outlook.
 
+All code and files are generated from Claude with self-made instructions in the main natuurpunt_agenda.py file.
+
 ## How does it work?
 
 The script is an **AI agent**: you run it, and Claude (Anthropic's AI) does the rest. It:
